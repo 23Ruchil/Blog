@@ -7,7 +7,7 @@ For example, some of the platforms and parameters that these institutions(univer
 * GoodReads : Number of books, subject/discipline the candidates is interest in
 * Twitter : Tweets posted by the user, relevance of the Tweets to the job, relevance of the people 
             followed by the applicant to the job 
-* Linked : Frequency of articles posted by the users, relevance of the post to the job, relevance of 
+* LinkedIn : Frequency of articles posted by the users, relevance of the post to the job, relevance of 
            the people followed by the applicant to the job
 * Instagram : Pages liked, relevance of the people followed by the applicant to the job, relevance of pictures posted by the 
               applicant to know his/her interests 
