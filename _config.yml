@@ -21,7 +21,9 @@
 title: Ruchil Sharma
 email: ruchil.product@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  To be done.
+ 
+  To be done
+
 baseurl: "/Blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
