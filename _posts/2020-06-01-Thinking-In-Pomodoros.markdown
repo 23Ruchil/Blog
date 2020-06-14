@@ -24,6 +24,8 @@ Not only has thinking in Pomodoros made me more productive, but also helped me d
 
   Check out the [first post][jekyll-firstpost] that I wrote. 
 
+![Test Image](/assets/images/test_image.jpg)
+
 
 If you find my posts interesting, get in touch with me at ruchil.product@gmail.com
 
