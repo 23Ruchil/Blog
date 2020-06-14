@@ -22,5 +22,9 @@ Not only has thinking in Pomodoros made me more productive, but also helped me d
 *3.Taking 7 minute breaks in which I practice playing Harmonica (Well, it makes me feel relaxed and obsess over some of my   
   tunes.
 
+  Check out the [first post][jekyll-firstpost] that I wrote. 
+
 
 If you find my posts interesting, get in touch with me at ruchil.product@gmail.com
+
+[jekyll-firstpost]: https://23ruchil.github.io/Blog/2020/05/19/Differentiating-Yourself-Through-Social-Media.html
