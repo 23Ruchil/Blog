@@ -1,5 +1,5 @@
 ---
-layout: product management
+layout: post
 title:  "Welcome to Jekyll!"
 date:   2020-06-23 20:28:09 +0530
 categories: jekyll update
