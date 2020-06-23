@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Test Blog"
+date:   2020-06-23 20:28:09 +0530
+categories: jekyll update
+---
+
 
 ![Test Image](https://github.com/23Ruchil/Blog/blob/gh-pages/_site/assets/agnostic.png)
 <img src="https://github.com/23Ruchil/Blog/blob/gh-pages/_site/assets/agnostic.PNG" width="800" />
