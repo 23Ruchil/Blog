@@ -9,9 +9,9 @@ Let me list down what I am supposed to do today and complete today’s To - Dos.
 Defining the activities on and outside my To - Do list as Pomodoros. 
 
 1. Grocery Shopping - 1 Pomodoro 
-2. Reading Books - 2 Pomodoros 
+2. Reading Books - 5 Pomodoros 
 3. Having a chat with my family : 1 Pomodoro 
-4. Daily Office Tasks : 8 Pomodoros
+4. Office Work : 22 Pomodoros
 5. Interacting with my family and friends over the weekend : 2 Pomodoros 
 
 Not only has thinking in Pomodoros made me more productive, but also helped me do a lot more work in a lot less time. The reason for this is as follows: 
@@ -21,7 +21,7 @@ Not only has thinking in Pomodoros made me more productive, but also helped me d
 2. Doing more activities and putting a hard stop to a particular activity after completing the assigned 
    Pomodoros.
 3. Taking 7 minute breaks in which I practice playing Harmonica (Well, it makes me feel relaxed and
-   obsess over my Harmonica tunes.
+   obsess over my Harmonica tunes) 
 
   Check out the [first post][jekyll-firstpost] that I wrote. 
 
