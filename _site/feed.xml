@@ -1,5 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="http://localhost:4000/Blog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/Blog/" rel="alternate" type="text/html" /><updated>2020-06-15T04:54:08+05:30</updated><id>http://localhost:4000/Blog/feed.xml</id><title type="html">Ruchil Sharma</title><subtitle>
-To be done</subtitle><entry><title type="html">Thinking In Pomodoros</title><link href="http://localhost:4000/Blog/2020/06/01/Thinking-In-Pomodoros.html" rel="alternate" type="text/html" title="Thinking In Pomodoros" /><published>2020-06-01T00:00:00+05:30</published><updated>2020-06-01T00:00:00+05:30</updated><id>http://localhost:4000/Blog/2020/06/01/Thinking-In-Pomodoros</id><content type="html" xml:base="http://localhost:4000/Blog/2020/06/01/Thinking-In-Pomodoros.html">&lt;p&gt;Last week (week from 24th May - 31st May) has turned out to be the most productive week in my life. Not that I have cut down on my side gigs or changed my priorities, but a simple addition of an age old technique called Pomodoro has changed the way I have started to think about time. Here’s how I see the difference :&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="http://localhost:4000/Blog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/Blog/" rel="alternate" type="text/html" /><updated>2020-06-26T18:59:55+05:30</updated><id>http://localhost:4000/Blog/feed.xml</id><title type="html">Ruchil Sharma</title><subtitle>
+To be done</subtitle><entry><title type="html">Speedreading</title><link href="http://localhost:4000/Blog/2020/06/23/Speedreading.html" rel="alternate" type="text/html" title="Speedreading" /><published>2020-06-23T00:00:00+05:30</published><updated>2020-06-23T00:00:00+05:30</updated><id>http://localhost:4000/Blog/2020/06/23/Speedreading</id><content type="html" xml:base="http://localhost:4000/Blog/2020/06/23/Speedreading.html">&lt;p&gt;For folks who have been dreaming about finsihing 12, 20 , or 20 books in one year, but have never been able to accomplish their dreams, this post is just for you.&lt;/p&gt;
+
+&lt;p&gt;What is speedreding?&lt;/p&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://23ruchil.github.io/Blog/2020/05/19/Differentiating-Yourself-Through-Social-Media.html&quot;&gt;first post&lt;/a&gt; that I wrote.&lt;/p&gt;
+
+&lt;p&gt;If you find my posts interesting, get in touch with me at ruchil.product@gmail.com&lt;/p&gt;</content><author><name></name></author><summary type="html">For folks who have been dreaming about finsihing 12, 20 , or 20 books in one year, but have never been able to accomplish their dreams, this post is just for you.</summary></entry><entry><title type="html">contact_me</title><link href="http://localhost:4000/Blog/jekyll/update/2020/06/23/contact_me.html" rel="alternate" type="text/html" title="contact_me" /><published>2020-06-23T00:00:00+05:30</published><updated>2020-06-23T00:00:00+05:30</updated><id>http://localhost:4000/Blog/jekyll/update/2020/06/23/contact_me</id><content type="html" xml:base="http://localhost:4000/Blog/jekyll/update/2020/06/23/contact_me.html">&lt;p&gt;For folks who have been dreaming about finsihing 12, 20 , or 20 books in one year, but have never been able to accomplish their dreams, this post is just for you.&lt;/p&gt;
+
+&lt;p&gt;What is speedreding?&lt;/p&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://23ruchil.github.io/Blog/2020/05/19/Differentiating-Yourself-Through-Social-Media.html&quot;&gt;first post&lt;/a&gt; that I wrote.&lt;/p&gt;
+
+&lt;p&gt;If you find my posts interesting, get in touch with me at ruchil.product@gmail.com&lt;/p&gt;</content><author><name></name></author><summary type="html">For folks who have been dreaming about finsihing 12, 20 , or 20 books in one year, but have never been able to accomplish their dreams, this post is just for you.</summary></entry><entry><title type="html">Thinking In Pomodoros</title><link href="http://localhost:4000/Blog/2020/06/01/Thinking-In-Pomodoros.html" rel="alternate" type="text/html" title="Thinking In Pomodoros" /><published>2020-06-01T00:00:00+05:30</published><updated>2020-06-01T00:00:00+05:30</updated><id>http://localhost:4000/Blog/2020/06/01/Thinking-In-Pomodoros</id><content type="html" xml:base="http://localhost:4000/Blog/2020/06/01/Thinking-In-Pomodoros.html">&lt;p&gt;Last week (week from 24th May - 31st May) has turned out to be the most productive week in my life. Not that I have cut down on my side gigs or changed my priorities, but a simple addition of an age old technique called Pomodoro has changed the way I have started to think about time. Here’s how I see the difference :&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;The Old Me&lt;/strong&gt;&lt;/p&gt;
 
@@ -9,23 +21,26 @@ To be done</subtitle><entry><title type="html">Thinking In Pomodoros</title><lin
 
 &lt;p&gt;Defining the activities on and outside my To - Do list as Pomodoros.&lt;/p&gt;
 
-&lt;p&gt;*1.Grocery Shopping - 1 Pomodoro 
-*2.Reading Books - 2 Pomodoros 
-*3.Having a chat with my family : 1 Pomodoro 
-*4.Daily Office Tasks : 8 Pomodoros
-*5.Interacting with my family and friends over the weekend : 2 Pomodoros&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Grocery Shopping - 1 Pomodoro&lt;/li&gt;
+  &lt;li&gt;Reading Books - 5 Pomodoros&lt;/li&gt;
+  &lt;li&gt;Having a chat with my family : 1 Pomodoro&lt;/li&gt;
+  &lt;li&gt;Office Work : 22 Pomodoros&lt;/li&gt;
+  &lt;li&gt;Interacting with my family and friends over the weekend : 2 Pomodoros&lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;p&gt;Not only has thinking in Pomodoros made me more productive, but also helped me do a lot more work in a lot less time. The reason for this is as follows:&lt;/p&gt;
 
-&lt;p&gt;*1.25 mins of focussed attention that makes me much more productive as compared to dragging things for hours with 
-  decreasing productivity. This leads to nothing, but an increased production of Adenosine in my body. 
-*2.Doing more activities and putting a hard stop to a particular activity after completing the assigned Pomodoros.
-*3.Taking 7 minute breaks in which I practice playing Harmonica (Well, it makes me feel relaxed and obsess over some of my &lt;br /&gt;
-  tunes.&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;25 mins of focussed attention that makes me much more productive as compared to dragging things for 
+ hours with decreasing productivity. This leads to nothing, but an increased production of Adenosine in my body.&lt;/li&gt;
+  &lt;li&gt;Doing more activities and putting a hard stop to a particular activity after completing the assigned 
+Pomodoros.&lt;/li&gt;
+  &lt;li&gt;Taking 7 minute breaks in which I practice playing Harmonica (Well, it makes me feel relaxed and
+obsess over my Harmonica tunes)&lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;p&gt;Check out the &lt;a href=&quot;https://23ruchil.github.io/Blog/2020/05/19/Differentiating-Yourself-Through-Social-Media.html&quot;&gt;first post&lt;/a&gt; that I wrote.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://23ruchil.github.io/Blog/assets/images/agnostic.png&quot; alt=&quot;Agnostic&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;If you find my posts interesting, get in touch with me at ruchil.product@gmail.com&lt;/p&gt;</content><author><name></name></author><summary type="html">Last week (week from 24th May - 31st May) has turned out to be the most productive week in my life. Not that I have cut down on my side gigs or changed my priorities, but a simple addition of an age old technique called Pomodoro has changed the way I have started to think about time. Here’s how I see the difference :</summary></entry><entry><title type="html">Differentiating Yourself Through Social Media</title><link href="http://localhost:4000/Blog/2020/05/19/Differentiating-Yourself-Through-Social-Media.html" rel="alternate" type="text/html" title="Differentiating Yourself Through Social Media" /><published>2020-05-19T00:00:00+05:30</published><updated>2020-05-19T00:00:00+05:30</updated><id>http://localhost:4000/Blog/2020/05/19/Differentiating-Yourself-Through-Social-Media</id><content type="html" xml:base="http://localhost:4000/Blog/2020/05/19/Differentiating-Yourself-Through-Social-Media.html">&lt;p&gt;With more than 241 million registered users on Facebook, 88 million registered users on Instagram, and 62 million registered users on Linkedin, there is no doubt about the uptake of social media platforms in India. Increasing number of users are spending their time online and using social media tools to express themselves. Amidst this, can the activities (posts/likes/comments) performed by people on social media be used to hire candidates for different job profiles? I see this as a great way to differentiate candidates from others in cases where they have similar educational backgrounds, skill sets, and resumes.&lt;/p&gt;
 
