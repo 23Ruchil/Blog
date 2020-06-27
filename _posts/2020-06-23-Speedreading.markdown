@@ -20,8 +20,22 @@ Let us get ourselves acquainted with a few terminologies to get started with spe
 6. **Removing Subvocalization** : Subvocalization is the act of pronouncing every word that is read. When subvocalizing, you 
    either say words out loud, hear them spoken in your mind, or move your lips to their pronunciation. Any one of these acts is subvocalizing. Subvocalization greatly reduces the speed at which you read by adding an unnecessary step, or steps, to your reading. In addition to seeing the word, you are also hearing and/or speaking it. We might assume the material we were reading was causing that boredom, but in reality, the cause was simply the sound of our inner voice!Subvocalization is a behavior that starts when we first learn to read, because we are taught (blame the teachers) to read phonetically. We read out loud to connect the right sound to the right word. This is necessary for the brain to learn the words and develop associations with those words. Once we become fluent, we stop reading out loud but continue the phonetic process. We either start whispering these sounds in our mind or begin moving our lips so others can’t hear us. Most people continue reading this way for the rest of their lives, hearing the little voice in the back of their mind and moving their lips to that voice.As beneficial as it is to silence the inner narrator though, it’s not easy. As you learned, it takes time and effort to break long-lasting habits. Nonetheless, the following suggestions reduce the difficulty.
 
+    * Close your mouth when reading : Keeping the mouth closed disengages these processes, thus preventing you from saying the  
+      words urge to verbalize. You’ll be surprised how much this single, deliberate action can curb the urge to verbalize.
+
+    * Read faster than speech : Read at a fast-enough pace where you simply cannot pronounce words or think about their sounds. 
+      Humans speak one word at a time and not three or four.
+
+    * Hum : Another option involves humming. Hum a tune, a song, or a basic melody. Humming works because it preoccupies the   
+      vocal cords, so that you can’t speak or whisper any words. Humming also drowns out the voice in your head, along with any distracting  noise in the immediate environment. If, for example, you are reading around noisy neighbors or loud machinery, humming can replace those annoying sounds with something more soothing.
+
+    * Music : The last and most popular option to break the subvocalization habit is to listen to music. Play it loud enough   
+      so that you can't hear yourself think, because if you can't hear yourself think, you won’t be able to hear yourself.Research shows that music without words or lyrics, such as classical, instrumental, or electronic music, are the best options for reading. Lyrics in a song compete with words in a text for the mind’s attention. Without lyrics, extraneous words aren’t getting in the way.
+   
 7. **Fixation** : Though fixation sounds like a complex psychological disorder, it is simply the length of time the eyes stop 
      and rest on a subject. Anytime we look at something, our eyes still themselves. This pause, called fixation, is the eyes’ ability to stop moving so they can focus. If they didn't do this, everything in life would be a blur. Fixation occurs during reading as well. When we read, our eyes stop and fix on words to see them clearly. They don't stop for long, but they do, indeed, stop with each and every word. This quick pause gives the eyes an opportunity to pick up the text.As the eyes look at a word, they fixate. To look at the next word, they jump.Fixation also reduces reading comprehension. Meaning is easier to pull from groups of words than from individual words or even single letters.We falsely assume that slower reading means better comprehension. This may be true in some cases, but in most cases, the factors causing slower reading also cause lower comprehension. If you read slowly and still struggle with comprehension, you are likely fixate too much.
+
+     The questions that now arises is how to reduce fixations. The answer : Space reading and chunking.
 
 8. **Regression** : Regression is the act of reading the same text multiple times. Regression reduces comprehension. Our minds 
    take meaning from what we just read to help us understand what we are about to read. By skipping back to a previous sentence,paragraph, or section, we can’t help but lose track of the point that was being currently made. So, returning to a passage after regression, you may have forgotten what was just read, making it difficult to understand what you are about to read.Most importantly, regression breaks flow, and speed reading is all about flow. It’s about syncing the pace of the eyes to the rhythm of the mind. As the eyes see words, the mind processes them. As soon as the mind finishes processing one set of words, the eyes pick up a new set.Overall, regression doubles, or even triples, reading time and may even result in better comprehension.
@@ -43,11 +57,11 @@ Let us get ourselves acquainted with a few terminologies to get started with spe
    
 
 
-   The questions that now arises is how to reduce fixations. The answer : Space reading and chunking. 
+  
 
 
 
- Now that your memory of the lessons is strong, it’s time to put the information and techniques to use! 
+  Now that your memory of the lessons is strong, it’s time to put the information and techniques to use! 
 
  
  If you find my posts interesting, get in touch with me at ruchil.product@gmail.com
