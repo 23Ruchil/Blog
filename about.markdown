@@ -22,6 +22,6 @@ In my free time I [read][jekyll-read], [write][jekyll-write] and play football.
 You can follow me on [LinkedIn][jekyll-linkedin], and [Twitter][jekyll-twitter]
 
 [jekyll-twitter]: https://twitter.com/RuchRuchil
-[jekyll-linkedin]: https://www.linkedin.com/feed/
+[jekyll-linkedin]: www.linkedin.com/in/ruchil-sharma-7916a4a1
 
 
