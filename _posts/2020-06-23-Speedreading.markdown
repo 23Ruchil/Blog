@@ -43,25 +43,7 @@ Let us get ourselves acquainted with a few terminologies to get started with spe
 9. **Visual Range** : Visual range is the ability to see objects beyond your direct line of focus. When looking at something 
    in front of you, it's easy to see that object because the eyes are set directly on it. It's difficult to capture details on either side of the object unless you move your eyes.We use peripherals more often than you might think. Whenever we try to look at someone without them knowing, we employ peripheral vision.If you’ve never worked on expanding peripheral range, chances are that it isn’t very wide. Therefore, the number of extra words it can capture is limited. If that’s the case, then in addition to training yourself to use the peripheral while reading, you also want to widen it. Widening the peripheral vision further increases the eyes’ capacity to capture words from both the left and right corners. Developing this is a key to developing the skill of speed reading. You can widen your peripheral vision through Schultz table. Look at the number in the middle of your screen and write all the numbers in the square down to practice widening your peripheral vision. 
 
- * Close your mouth when reading : Keeping the mouth closed disengages these processes, thus preventing you from saying the  
-   words urge to verbalize. You’ll be surprised how much this single, deliberate action can curb the urge to verbalize.
-
- * Read faster than speech : Read at a fast-enough pace where you simply cannot pronounce words or think about their sounds. 
-   Humans speak one word at a time and not three or four.
-
- * Hum : Another option involves humming. Hum a tune, a song, or a basic melody. Humming works because it preoccupies the vocal  
-   cords, so that you can’t speak or whisper any words. Humming also drowns out the voice in your head, along with any distracting  noise in the immediate environment. If, for example, you are reading around noisy neighbors or loud machinery, humming can replace those annoying sounds with something more soothing.
-
- * Music : The last and most popular option to break the subvocalization habit is to listen to music. Play it loud enough so    
-   that you can't hear yourself think, because if you can't hear yourself think, you won’t be able to hear yourself.Research shows that music without words or lyrics, such as classical, instrumental, or electronic music, are the best options for reading. Lyrics in a song compete with words in a text for the mind’s attention. Without lyrics, extraneous words aren’t getting in the way.
-   
-
-
-  
-
-
-
   Now that your memory of the lessons is strong, it’s time to put the information and techniques to use! 
 
  
- If you find my posts interesting, get in touch with me at ruchil.product@gmail.com
+  If you find my posts interesting, get in touch with me at ruchil.product@gmail.com
