@@ -22,7 +22,7 @@ title: Ruchil Sharma
 email: ruchil.product@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
  
-  Everything Product 
+  Content @ 2020 Ruchil Sharma 
 
 baseurl: "/Blog" # the subpath of your site, e.g. /blog
 url: "https://23ruchil.github.io" # the base hostname & protocol for your site, e.g. http://example.com
