@@ -19,14 +19,14 @@ Let us get ourselves acquainted with a few terminologies to get started with spe
 
 6. **Removing Subvocalization** : Subvocalization is the act of pronouncing every word that is read. When subvocalizing, you either say words out loud, hear them spoken in your mind, or move your lips to their pronunciation. Any one of these acts is subvocalizing. Subvocalization greatly reduces the speed at which you read by adding an unnecessary step, or steps, to your reading. In addition to seeing the word, you are also hearing and/or speaking it. We might assume the material we were reading was causing that boredom, but in reality, the cause was simply the sound of our inner voice!Subvocalization is a behavior that starts when we first learn to read, because we are taught (blame the teachers) to read phonetically. We read out loud to connect the right sound to the right word. This is necessary for the brain to learn the words and develop associations with those words. Once we become fluent, we stop reading out loud but continue the phonetic process. We either start whispering these sounds in our mind or begin moving our lips so others can’t hear us. Most people continue reading this way for the rest of their lives, hearing the little voice in the back of their mind and moving their lips to that voice.As beneficial as it is to silence the inner narrator though, it’s not easy. As you learned, it takes time and effort to break long-lasting habits. Nonetheless, the following suggestions reduce the difficulty.
 
- * Close your mouth when reading : Keeping the mouth closed disengages these processes, thus preventing you from saying the words 
-  urge to verbalize. You’ll be surprised how much this single, deliberate action can curb the urge to verbalize.
+ * Close your mouth when reading : Keeping the mouth closed disengages these processes, thus preventing you from saying the  
+   words urge to verbalize. You’ll be surprised how much this single, deliberate action can curb the urge to verbalize.
 
  * Read faster than speech : Read at a fast-enough pace where you simply cannot pronounce words or think about their sounds. 
-  Humans speak one word at a time and not three or four.
+   Humans speak one word at a time and not three or four.
 
  * Hum : Another option involves humming. Hum a tune, a song, or a basic melody. Humming works because it preoccupies the vocal  
-  cords, so that you can’t speak or whisper any words. Humming also drowns out the voice in your head, along with any distracting  noise in the immediate environment. If, for example, you are reading around noisy neighbors or loud machinery, humming can replace those annoying sounds with something more soothing.
+   cords, so that you can’t speak or whisper any words. Humming also drowns out the voice in your head, along with any distracting  noise in the immediate environment. If, for example, you are reading around noisy neighbors or loud machinery, humming can replace those annoying sounds with something more soothing.
 
  * Music : The last and most popular option to break the subvocalization habit is to listen to music. Play it loud enough so    
    that you can't hear yourself think, because if you can't hear yourself think, you won’t be able to hear yourself.Research shows that music without words or lyrics, such as classical, instrumental, or electronic music, are the best options for reading. Lyrics in a song compete with words in a text for the mind’s attention. Without lyrics, extraneous words aren’t getting in the way.
