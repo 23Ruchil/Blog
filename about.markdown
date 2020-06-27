@@ -10,7 +10,7 @@ In the past I have worked with [Kalaari Capital][jekyll-docs], [Hotstar][jekyll-
 
 [jekyll-docs]: https://www.kalaari.com
 [jekyll-gh]:   https://www.hotstar.com/in
-[jekyll-talk]: https://www.ap.gov.in
+[jekyll-talk]: https://www.youtube.com/watch?v=_NRVARcUU_I
 
 
 In my free time I [read][jekyll-read], [write][jekyll-write] and play football. 
@@ -19,4 +19,9 @@ In my free time I [read][jekyll-read], [write][jekyll-write] and play football.
 [jekyll-write]: https://23ruchil.github.io/Blog/
 
 
-You can follow me on Linkedin and Twitter 
+You can follow me on [LinkedIn][jekyll-linkedin], and [Twitter][jekyll-twitter]
+
+[jekyll-linkedin]: www.linkedin.com/in/ruchil-sharma-7916a4a1
+[jekyll-twitter]: https://twitter.com/RuchRuchil
+
+
