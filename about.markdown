@@ -9,7 +9,7 @@ Hello, I am Ruchil, currently working in the Consumer Product team of one of Ind
 In the past I have worked with [Kalaari Capital][jekyll-docs], [Hotstar][jekyll-gh] and [Government of Andhra Pradesh][jekyll-talk].
 
 [jekyll-docs]: https://www.kalaari.com
-[jekyll-gh]:   https://www.hotstar.com/in
+[jekyll-gh]: https://www.hotstar.com/in
 [jekyll-talk]: https://www.youtube.com/watch?v=_NRVARcUU_I
 
 
@@ -21,7 +21,7 @@ In my free time I [read][jekyll-read], [write][jekyll-write] and play football.
 
 You can follow me on [LinkedIn][jekyll-linkedin], and [Twitter][jekyll-twitter]
 
-[jekyll-linkedin]: www.linkedin.com/in/ruchil-sharma-7916a4a1
+[jekyll-linkedin]: https://www.linkedin.com/feed/
 [jekyll-twitter]: https://twitter.com/RuchRuchil
 
 
