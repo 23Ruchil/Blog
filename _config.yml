@@ -32,7 +32,7 @@ twitter_username: @RuchRuchil
 theme: minima
 plugins:
   - jekyll-feed
-rss: Subscribe
+#rss: Subscribe
 
 # Exclude from processing.
 # The following items will not be processed, by default.
