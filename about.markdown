@@ -4,7 +4,18 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hello, I am Ruchil, currently working in the Consumer Product team of one of India's largest E - Commerce firms. 
+
+In the past I have worked at [Kalaari Capital][jekyll-Kalaari], [Hotstar][jekyll-Hotstar] and [Government of Andhra Pradesh][jekyll-Government of Andhra Pradesh] 
+
+[jekyll-Kalaari]: https://www.kalaari.com
+[jekyll-Hotstar] : https://www.hotstar.com/in
+[jekyll-Government of Andhra Pradesh] : https://www.ap.gov.in
+
+In my free time I read, write or play Harmonica 
+
+You can follow me on Linkedin and Twitter 
+
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
