@@ -15,7 +15,7 @@ In the past I have worked with [Kalaari Capital][jekyll-docs], [Hotstar][jekyll-
 [jekyll-talk]: https://www.youtube.com/watch?v=_NRVARcUU_I
 
 
-When not working, I spend my time [reading][jekyll-read], [writing][jekyll-write],[playing harmonica][jekyll-harmonica], and football. 
+When not working, I spend my time [reading][jekyll-read], [writing][jekyll-write], [playing harmonica][jekyll-harmonica], and football. 
 
 [jekyll-read]: https://www.goodreads.com/user/show/54195959-ruchil
 [jekyll-write]: https://23ruchil.github.io/Blog/
