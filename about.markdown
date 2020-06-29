@@ -6,7 +6,7 @@ permalink: /about/
 
 Hello, I am Ruchil, currently working in the Consumer Product team of one of India's largest E - Commerce firms : [Grofers][jekyll-grofers]
 
-[jekyll-grofers] : https://en.wikipedia.org/wiki/Grofers
+[jekyll-grofers]: https://en.wikipedia.org/wiki/Grofers
 
 In the past I have worked with [Kalaari Capital][jekyll-docs], [Hotstar][jekyll-gh] and [Government of Andhra Pradesh][jekyll-talk].
 
@@ -15,7 +15,7 @@ In the past I have worked with [Kalaari Capital][jekyll-docs], [Hotstar][jekyll-
 [jekyll-talk]: https://www.youtube.com/watch?v=_NRVARcUU_I
 
 
-I spend my time [reading][jekyll-read], [writing][jekyll-write] and [playing harmonica][jekyll-harmonica], and football. 
+When not working, I spend my time [reading][jekyll-read], [writing][jekyll-write],[playing harmonica][jekyll-harmonica], and football. 
 
 [jekyll-read]: https://www.goodreads.com/user/show/54195959-ruchil
 [jekyll-write]: https://23ruchil.github.io/Blog/
