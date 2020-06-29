@@ -30,7 +30,7 @@ Some resources that might come handy while dealing with such situations:
 Books: [Nonviolent Communication: A Language of Life][jekyll-one], [Crucial Conversations: Tools for Talking When Stakes Are High][jekyll-two]
 
 [jekyll-one]: https://www.goodreads.com/book/show/71730.Nonviolent_Communication
-[jekyll two]: https://www.goodreads.com/book/show/15014.Crucial_Conversations
+[jekyll-two]: https://www.goodreads.com/book/show/15014.Crucial_Conversations
 
 Articles: [Best reads on Firstround to deal with conflicts][jekyll-first], [5 hard questions to ask yourself during a conflict][jekyll-second], [How to make a good argument][jekyll-third], [5 steps for Disagreeing Effectively][jekyll-fourth]
 
