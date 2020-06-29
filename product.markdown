@@ -7,7 +7,7 @@ permalink: /product_management/
 Stay tuned to read about the following: 
 
 1. My experiences with working in the Venture Capital Industry 
-2. How I got into Venture Capital insudtry without a management degree 
+2. How I got into Venture Capital industry without a management degree 
 3. Deep insights on different sectors and predictions about the future 
 4. How I got into Product Management without any prior experience or a management degree 
 5. How to create frameworks and learn anything quickly : Ultralearning 
