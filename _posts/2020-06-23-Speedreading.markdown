@@ -47,7 +47,7 @@ Let us get ourselves acquainted with a few terminologies to get started with spe
 
   Happy reading! 
 
-  Find my post on [how to get things done][jekyll-thingsdone]done using the Pomodoro technique. 
+  Check out my post on [how to get things done][jekyll-thingsdone] using the Pomodoro technique to boost your focus.  
 
   [jekyll-thingsdone]: https://23ruchil.github.io/Blog/2020/06/01/Thinking-In-Pomodoros.html
 
