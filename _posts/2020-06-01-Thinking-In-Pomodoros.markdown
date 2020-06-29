@@ -23,7 +23,7 @@ Not only has thinking in Pomodoros made me more productive, but also helped me d
 3. Taking 7 minute breaks in which I practice playing Harmonica (Well, it makes me feel relaxed and
    obsess over my Harmonica tunes) 
 
-To make correct use of Social Media and get your focus back, check out this [post][jekyll-firstpost]. 
+To make the most of social media platforms and effectively apply the pomodoro technique, check out this [post][jekyll-firstpost]
 
 If you find my posts interesting, get in touch with me at ruchil.product@gmail.com
 
