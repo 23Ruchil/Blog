@@ -14,7 +14,7 @@ For example, some of the platforms and parameters that these institutions(univer
               
 Especially during these unprecedented times, when jobs for some of the major sectors have disappeared and when most of us are liking those cat videos, differentiating yourself and posting stuff relevant to your professional interests might come handy for securing your dream job in the future. 
 
-To conclude, I think choosing the right Social Media platform is similar to chosing your peers. If done right, it can do wonders, but if done wrong, well, best of luck! I have personally benefitted and learned a lot from Twitter and LinkedIn.
+To conclude, I think choosing the right social media platform is similar to chosing your peers. If done right, it can do wonders, but if done wrong, well, best of luck! I have personally benefitted and learned a lot from Twitter and LinkedIn.
 
 Happy posting! 
 
