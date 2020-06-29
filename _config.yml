@@ -31,7 +31,7 @@ url: "https://23ruchil.github.io" # the base hostname & protocol for your site, 
 
 # Build settings
 theme: minima
-#plugins:
+plugins:
   - jekyll-feed
 #rss: Subscribe
 
