@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "Seek to understand before trying to be understood"
+---
+
 People are just either not that interested in what you're saying, or they are too focused on their own agenda. It's ridiculous to see two people acting like they can’t really hear each other — by choice.
 
 In "The Significance Principle," authors Les Carter and Jim Underwood posit that we should listen past where the other person has finished. We should even pause before answering. Let them get their point, their story, their compliment, and even their criticism out. Completely.
