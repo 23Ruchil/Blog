@@ -1,4 +1,4 @@
-Back in January, 2020, I came across a technique called "SpeedReading" on one of Tim Ferris' videos. I was so intrigued by it that not only did I start "reading about speed reading" a lot, I also started practicing the same tirelessly. Since then, I have almost doubled my reading speed with increased retention and have started to summarise all the books that I read on Evernote (Will share them all and make it accessible to everyone by the end of this year). The next question that should come to your mind is what the hell is "speedreading" and how do I use it to increase my reading speed? 
+Back in January, 2019, I came across a technique called "SpeedReading" on one of Tim Ferris' videos. I was so intrigued by it that not only did I start "reading about speed reading" a lot, I also started practicing the same tirelessly. Since then, I have almost doubled my reading speed with increased retention and have started to summarise all the books that I read on Evernote (Will share them all and make it accessible to everyone by the end of this year). The next question that should come to your mind is what the hell is "speedreading" and how do I use it to increase my reading speed? 
 
 Let us get ourselves acquainted with a few terminologies to get started with speedreading: 
 
@@ -43,7 +43,12 @@ Let us get ourselves acquainted with a few terminologies to get started with spe
 9. **Visual Range** : Visual range is the ability to see objects beyond your direct line of focus. When looking at something 
    in front of you, it's easy to see that object because the eyes are set directly on it. It's difficult to capture details on either side of the object unless you move your eyes.We use peripherals more often than you might think. Whenever we try to look at someone without them knowing, we employ peripheral vision.If you’ve never worked on expanding peripheral range, chances are that it isn’t very wide. Therefore, the number of extra words it can capture is limited. If that’s the case, then in addition to training yourself to use the peripheral while reading, you also want to widen it. Widening the peripheral vision further increases the eyes’ capacity to capture words from both the left and right corners. Developing this is a key to developing the skill of speed reading. You can widen your peripheral vision through Schultz table. Look at the number in the middle of your screen and write all the numbers in the square down to practice widening your peripheral vision. 
 
-  Now that your memory of the lessons is strong, it’s time to put the information and techniques to use! 
+  I'm almost on the verge of completing 21 books (will share summaries of each one of them on my blog soon) till June, 2020 using the techniques mentioned above. It’s your time to put the information and techniques to use! 
 
- 
-  If you find my posts interesting, get in touch with me at ruchil.product@gmail.com
+  Happy reading! 
+
+  Find my post on [how to get things done][jekyll-thingsdone]done using the Pomodoro technique. 
+
+  [jekyll-thingsdone]: https://23ruchil.github.io/Blog/2020/06/01/Thinking-In-Pomodoros.html
+
+If you find my posts interesting, get in touch with me at ruchil.product@gmail.com
