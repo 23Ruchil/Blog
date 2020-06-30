@@ -57,21 +57,21 @@ Stating the names and description of the books that I liked and have read this y
 Here's the list of all the books that I've read this year. For the remaioning half of this year, I intend to read a lot on technology, design, food and health, personal finance, investing and politics (ye zyada nahi). Along with this, I intend to read all the publicly available reports on different industry published by BCG, Mckinsey, CB Insights, VC funds, and create my own personal models and frameworks. 
 
 
-[jekyll-twitter] : https://www.goodreads.com/book/show/18656827-hatching-twitter
-[Why We Sleep?][jekyll-sleep]: https://www.goodreads.com/book/show/34466963-why-we-sleep
-[Let's Talk Money][jekyll-money]: https://www.goodreads.com/book/show/40499078-let-s-talk-money
-[Atomic Habits][jekyll-habits]: https://www.goodreads.com/book/show/40121378-atomic-habits
-[No Filter : The Inside Story of Instagram][jekyll-instagram]: https://www.goodreads.com/book/show/50772888-no-filter
-[Big Billion Startup : The Flipkart Story][jekyll-Flipkart]: https://www.goodreads.com/book/show/52346729-big-billion-startup
-[Steven Johnson : Where Good Ideas Come From][jekyll-Good]: https://www.goodreads.com/book/show/8034188-where-good-ideas-come-from
-[The Game : Neil Strauss][jekyll-Niel-Strauss]: https://www.goodreads.com/book/show/900.The_Game
-[Super Pumpped : The Battle of Uber][jekyll-Uber]: https://www.goodreads.com/book/show/44573628-super-pumped
-[Don't Make Me Think][jekyll-think]: https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited
-[Gamification][jekyll-gamification]:
-[Design of Everyday Things][jekyll-design]: https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things?ac=1&from_search=true&qid=lZCtNNKZy6&rank=1
-[That Will Never Work : Birth of Netflix][jekyll-Netflix]: https://www.goodreads.com/book/show/44428950-that-will-never-work
-[4-Hour Workweek][jekyll-4 Hour]: https://www.goodreads.com/book/show/368593.The_4_Hour_Workweek
-[Courage To Be Disliked][jekyll-courage]: https://www.goodreads.com/book/show/43306206-the-courage-to-be-disliked
+[jekyll-twitter]: https://www.goodreads.com/book/show/18656827-hatching-twitter
+[jekyll-sleep]: https://www.goodreads.com/book/show/34466963-why-we-sleep
+[jekyll-money]: https://www.goodreads.com/book/show/40499078-let-s-talk-money
+jekyll-habits]: https://www.goodreads.com/book/show/40121378-atomic-habits
+[jekyll-instagram]: https://www.goodreads.com/book/show/50772888-no-filter
+[jekyll-Flipkart]: https://www.goodreads.com/book/show/52346729-big-billion-startup
+[jekyll-Good]: https://www.goodreads.com/book/show/8034188-where-good-ideas-come-from
+[jekyll-Niel-Strauss]: https://www.goodreads.com/book/show/900.The_Game
+[jekyll-Uber]: https://www.goodreads.com/book/show/44573628-super-pumped
+[jekyll-think]: https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited
+[jekyll-gamification]:https://www.goodreads.com/book/show/25416321-actionable-gamification
+[jekyll-design]: https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things?ac=1&from_search=true&qid=lZCtNNKZy6&rank=1
+[jekyll-Netflix]: https://www.goodreads.com/book/show/44428950-that-will-never-work
+[jekyll-4 Hour]: https://www.goodreads.com/book/show/368593.The_4_Hour_Workweek
+[jekyll-courage]: https://www.goodreads.com/book/show/43306206-the-courage-to-be-disliked
 
 
 If you like my posts, get in touch with me at ruchil.product@gmail.com 
