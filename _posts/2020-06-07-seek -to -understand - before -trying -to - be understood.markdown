@@ -10,7 +10,7 @@ In "The Significance Principle," authors Les Carter and Jim Underwood posit that
 Then, before preparing your response, ask more about what they said. Get engaged. Understand what and why.
 Seeking real understanding affirms the other person and what they have to say. That's what they want. That's what we all want — to be understood, valued and affirmed. What if you seek to understand but others don't? Two things come to mind. One person truly listening is generally better than none. More important, one person listening generally leads to two people listening. Let’s be honest, if I honor you with my ears, you’ll be more likely to reciprocate. Others learn the habit through our example.
 
-The ability to hear is a gift. The willingness to listen is a choice. Putting yourself in others shoes and being emppatheric is very important life skill (a critical part of my job as a part of the product community). I've failed at doing this multiple times and have annoyed very close friends because of this. 
+The ability to hear is a gift. The willingness to listen is a choice. Putting yourself in others shoes and being emppatheric is very important life skill (a critical part of my job as a part of the product community). I've failed at doing this multiple times and have pestered my friends because of this. 
 
 **Contextualizing this to dating and relationships (The hardest part)** 
 
