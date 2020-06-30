@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Joy Of Fuck You Money"
+title:  "Article : The joy of fuck you money"
 ---
 
 [Click Here][jekyll-click]

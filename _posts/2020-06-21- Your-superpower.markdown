@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What is your superpower"
+title:  "What is your superpower?"
 ---
 
 ![image](https://manassaloi.com/assets/img/no_filter.png)

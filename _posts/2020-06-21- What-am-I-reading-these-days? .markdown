@@ -1,26 +1,93 @@
 ---
 layout: post
-title:  "What is your superpower"
+title:  "What am I reading these days?"
 ---
 
-![image](https://manassaloi.com/assets/img/no_filter.png)
+With ~ 21 books more in the bag, the lockdown has turned out to be quite productive. Although I have tried to mantain variety in the kind of books and content that I read, couple of books that have stood out for me are : Courage To Be Disliked by Ichiro ishimi and Atomic Habits by James Clear. 
 
-In one of the excerpt from the book No Filter: The Inside Story of Instagram, Kevin Systorm explains to Ashton Kutcher why Instagram blew up. It was not because of network effects. There were no network effects on day 1. It was not because of celebrity users. It was not because they rode on Twitter and Facebook graph of users. All of these happened later. Like most B2C products, it started as a single player use case: **How to make your photos more beautiful, and shareable**
+Stating the names and description of the books that I liked and have read this year: 
 
-I have been thinking about the concept of superpowers a lot. Brian Norgard keeps talking about giving your users superpowers. The ability to super like a person on a dating app is a superpower. And Norgard’s advice is to monetize by charging for these super powers, which is what most dating apps do. But I think the superpower concept can be extended even further. Instead of a normal feature vs monetizable superpower feature, think of how you can give ordinary users super powers though your product. 
+1. [Hatching Twitter][jekyll-twitter] : Politics, betrayal and loads of money. The only thing missing in 
+   this one is infidelity (wait, shayad wo bhi hai), for it to become a superhit movie. Have started stalking Jack Dorsey after this. 
 
-Listed below are other superpowers that I think can make you a superhero in the 21st century. Perhaps, a few business ideas for the future entrepreneurs: 
+2. [Why We Sleep?][jekyll-sleep]: I'm mostly sleep deprived and have been sleeping for less than 6 hours 
+   for quite sometime now, but this book has come across as a  lightening bolt. Never in my life have I recommended someone to rest and sleep properly, but now I do. An eye opener and a must read! 
 
-1. Speedreading : Helping users read 500 - 1000 wpm with ~ 90% retention 
-2. Ability to learn and write code quickly (Ultralearning model by Scott H. Young)
-3. Ability to understand and create design 
-4. Ability to let users network (Different from LinkedIn in the sense that the network is a community 
-   rather than just a number)
-5. Apps that let users meditate deeply 
-6. Saying "no" without feeling guilty 
-7. Critical reasoning : Thinking from first priciples 
+3. [Let's Talk Money][jekyll-money]: A great starter for those looking for investment advice and save a 
+   few bucks to check off that bucket list. I was already practicing most of the things mentioned in the book and will share the summary soon.
 
-Feel free to reach out to me at ruchil.product@gmail.com if you have more ideas to add to this list. 
+4. [Atomic Habits][jekyll-habits]: One of the best books on habit formation and how we make decision. This 
+   one is an ultimte guide to become aware about your bad habits and replace them with the good ones. Iska
+   to itna bada fan ban gaya hun k physical copy saath lekar h sota hun. 
+   Next One : B.J. Fogg's : Tiny Habits. Although I've seen most of his videos
+
+5. [No Filter : The Inside Story of Instagram][jekyll-instagram]: Although I am not a big fan of Instagram 
+   as a product, this books describes how two passionate founders with complementary skillsets decided to 
+   take on Benchmarked backed portfolio company. Although the initial vision of Instagram was very different from what it has become now (Zuckerbro taking over again), I just love the fact that both Kevin and Mike left facebook when Zuck tried to take over and dominate the vision of the company. (Kevin Systrom made ~ 800M in the process)
+
+6. [Big Billion Startup : The Flipkart Story][jekyll-Flipkart] : Isme bhi, Twitter level politics, but at 
+   a much smaller scale 
+
+7. [Steven Johnson : Where Good Ideas Come From][jekyll-Good]: Well, shower and an evening walk. Hahah. On 
+   a serious note, this goes deeper into how we think and how ideas shape up in our heads. 
+
+8. [The Game : Neil Strauss][jekyll-Niel-Strauss]: Welcome to the community of pickup artisits. Isn't 
+   this enought to make you read the book? 
+
+9. [Super Pumped : The Battle of Uber][jekyll-Uber]: Well, no matter how much all of us criticize/
+   ridicule Travis Kalanick, he has revolutionized the entire transportation industry through Uber. Iska bhi fan ban gaya hun. Do watch some of his talks on Youtube!
+
+10. [Don't Make Me Think][jekyll-think]: This one made me think a lot. A brief read on how things are 
+    designed on web and mobile in general and best practices that one should follow 
+
+11. [Gamification][jekyll-gamification]: I was fascinated by how gamification can be used to 
+    influence consumer psychology. Ended up completing a course on Coursera on the same!
+
+12. [Design of Everyday Things][jekyll-design]: The next time you are unable to open that annoying door, 
+    curse its designer, but do not blame yourself. Loved reading this one. Summary coming out soon. 
+
+13. [That Will Never Work : Birth of Netflix][jekyll-Netflix]: Well, it worked. Netflix par hai.
+
+14. [4-Hour Workweek][jekyll-4 Hour]: I wish ye jaldi h ho jaye. This suggests you to earn your living by 
+     building specific knowledge (Naval Ravikant's framework) across different domains. 
+
+15. [Courage To Be Disliked][jekyll-courage]: Last, but this one tops the lot. Unlike its name, it doesn't 
+     tell you to do things that make others dislike you, but the fact that others dislike you make you free. Kaafi deep hai. A must read for everyone. 
+
+Here's the list of all the books that I've read this year. For the remaioning half of this year, I intend to read a lot on technology, design, food and health, personal finance, investing and politics (ye zyada nahi). Along with this, I intend to read all the publicly available reports on different industry published by BCG, Mckinsey, CB Insights, VC funds, and create my own personal models and frameworks. 
+
+
+[jekyll-twitter] : https://www.goodreads.com/book/show/18656827-hatching-twitter
+[Why We Sleep?][jekyll-sleep]: https://www.goodreads.com/book/show/34466963-why-we-sleep
+[Let's Talk Money][jekyll-money]: https://www.goodreads.com/book/show/40499078-let-s-talk-money
+[Atomic Habits][jekyll-habits]: https://www.goodreads.com/book/show/40121378-atomic-habits
+[No Filter : The Inside Story of Instagram][jekyll-instagram]: https://www.goodreads.com/book/show/50772888-no-filter
+[Big Billion Startup : The Flipkart Story][jekyll-Flipkart]: https://www.goodreads.com/book/show/52346729-big-billion-startup
+[Steven Johnson : Where Good Ideas Come From][jekyll-Good]: https://www.goodreads.com/book/show/8034188-where-good-ideas-come-from
+[The Game : Neil Strauss][jekyll-Niel-Strauss]: https://www.goodreads.com/book/show/900.The_Game
+[Super Pumpped : The Battle of Uber][jekyll-Uber]: https://www.goodreads.com/book/show/44573628-super-pumped
+[Don't Make Me Think][jekyll-think]: https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited
+[Gamification][jekyll-gamification]:
+[Design of Everyday Things][jekyll-design]: https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things?ac=1&from_search=true&qid=lZCtNNKZy6&rank=1
+[That Will Never Work : Birth of Netflix][jekyll-Netflix]: https://www.goodreads.com/book/show/44428950-that-will-never-work
+[4-Hour Workweek][jekyll-4 Hour]: https://www.goodreads.com/book/show/368593.The_4_Hour_Workweek
+[Courage To Be Disliked][jekyll-courage]: https://www.goodreads.com/book/show/43306206-the-courage-to-be-disliked
+
+
+If you like my posts, get in touch with me at ruchil.product@gmail.com 
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
