@@ -60,7 +60,7 @@ Here's the list of all the books that I've read this year. For the remaioning ha
 [jekyll-twitter]: https://www.goodreads.com/book/show/18656827-hatching-twitter
 [jekyll-sleep]: https://www.goodreads.com/book/show/34466963-why-we-sleep
 [jekyll-money]: https://www.goodreads.com/book/show/40499078-let-s-talk-money
-jekyll-habits]: https://www.goodreads.com/book/show/40121378-atomic-habits
+[jekyll-habits]: https://www.goodreads.com/book/show/40121378-atomic-habits
 [jekyll-instagram]: https://www.goodreads.com/book/show/50772888-no-filter
 [jekyll-Flipkart]: https://www.goodreads.com/book/show/52346729-big-billion-startup
 [jekyll-Good]: https://www.goodreads.com/book/show/8034188-where-good-ideas-come-from
