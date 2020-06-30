@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hello, I am Ruchil, currently working in the Consumer Product team of one of India's largest E - Commerce firms : [Grofers][jekyll-grofers]
+Hello, I am Ruchil, currently working in the Consumer Product team of one of India's largest E - Commerce firms in the grocery segment: [Grofers][jekyll-grofers]
 
 [jekyll-grofers]: https://en.wikipedia.org/wiki/Grofers
 
