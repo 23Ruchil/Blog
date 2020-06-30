@@ -3,7 +3,7 @@ layout: post
 title:  "What am I reading these days?"
 ---
 
-With ~ 21 books more in the bag, the lockdown has turned out to be quite productive. Although I have tried to mantain variety in the kind of books and content that I have read, couple of books that have stood out for me are : Courage To Be Disliked by Ichiro ishimi and Atomic Habits by James Clear. 
+With ~ 21 more books in the bag, the lockdown has turned out to be quite productive. Although I have tried to mantain variety in the kind of books and content that I read, couple of books that have stood out for me are : Courage To Be Disliked by Ichiro ishimi and Atomic Habits by James Clear. 
 
 Stating the names and description of the books that I liked and have read thus far: 
 
