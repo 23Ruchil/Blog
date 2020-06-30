@@ -10,7 +10,7 @@ In "The Significance Principle," authors Les Carter and Jim Underwood posit that
 Then, before preparing your response, ask more about what they said. Get engaged. Understand what and why.
 Seeking real understanding affirms the other person and what they have to say. That's what they want. That's what we all want — to be understood, valued and affirmed. What if you seek to understand but others don't? Two things come to mind. One person truly listening is generally better than none. More important, one person listening generally leads to two people listening. Let’s be honest, if I honor you with my ears, you’ll be more likely to reciprocate. Others learn the habit through our example.
 
-The ability to hear is a gift. The willingness to listen is a choice. Putting yourself in others shoes and being emppatheric is very important life skill (a critical part of my job as a part of the product community). I've failed at doing this multiple times and have annoyed/lost key relationships because of this. 
+The ability to hear is a gift. The willingness to listen is a choice. Putting yourself in others shoes and being emppatheric is very important life skill (a critical part of my job as a part of the product community). I've failed at doing this multiple times and have annoyed very close friends because of this. 
 
 **Contextualizing this to dating and relationships (The hardest part)** 
 
@@ -22,7 +22,7 @@ When we are engaged in a heated discussion with someone we tend to listen more w
 
 We let our preconceived notions about the person cloud our judgement.
 
-The best thing to do in such a situation is to take a pause and ask yourself whether you are fighting the person or the points she is making. And respond to his/her points than his/her behavior (be it past or present). If you have been hurt by his/her way of speaking, something he/she did in the past, you can always bring that up later when the main discussion has ended.
+The best thing to do in such a situation is to take a pause and ask yourself whether you are fighting the person or the points he/she is making. And respond to his/her points than his/her behavior (be it past or present). If you have been hurt by his/her way of speaking, something he/she did in the past, you can always bring that up later when the main discussion has ended.
 
 In this way you will prevent fights from getting dragged on and on, and also take the decision which is best for your relationship.
 
