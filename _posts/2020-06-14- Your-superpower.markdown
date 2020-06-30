@@ -19,7 +19,7 @@ Listed below are other superpowers that I think can make you a superhero in the 
 5. Apps that let users meditate deeply 
 6. Saying "no" without feeling guilty 
 7. Critical reasoning : Thinking from first priciples 
-8. Financial literacy and maximizing ROI through investmenting in equities and public markets 
+8. Financial literacy and maximizing ROI through investments in equities and public markets 
 9. Most important skills of the 21 st century : [Learning how to learn][jekyll-learn]
 
 [jekyll-learn]: https://www.coursera.org/learn/learning-how-to-learn
