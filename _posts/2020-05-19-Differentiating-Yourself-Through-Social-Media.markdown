@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Differentiating yourself through social media?"
+title:  "Differentiating yourself through social media"
 ---
 
 With more than 241 million registered users on Facebook, 88 million registered users on Instagram, and 62 million registered users on Linkedin, there is no doubt about the uptake of social media platforms in India. Increasing number of users are spending their time online and using social media tools to express themselves. Amidst this, can the activities (posts/likes/comments) performed by people on social media be used to hire candidates for different job profiles? I see this as a great way to differentiate candidates from others in cases where they have similar educational backgrounds, skill sets, and resumes. 
