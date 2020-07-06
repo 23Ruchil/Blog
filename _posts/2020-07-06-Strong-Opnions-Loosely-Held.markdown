@@ -34,7 +34,7 @@ title:  "Strong Opinions, Weakly Held"
 6. **Embracing Boredom** : Mastery is never an accident. You can win the lottery and become rich 
    overnight, but no one has ever mastered their craft by chance. Whether we are talking about athletes, artists, or academics, the story is the same. If you want to fulfill your potential then you must practice a specific skill for a long time with remarkable consistency. Of course, whenever “experts” share stories about successful people they often leave out a key ingredient of the story. How, exactly, do top performers fall in love with boredom? Perhaps more importantly, how can you fall in love with boredom when you're trying to build a habit that you know you should do, but you don't really want to do. Success is often found by practicing the fundamentals that everyone knows they should be doing, but they find too boring or basic to practice routinely. 
 
-   Quouting Steve Wozniak (Co - founder of Apple): 
+   Quoting Steve Wozniak (Co - founder of Apple): 
 
    ![image](https://github.com/23Ruchil/Blog/blob/gh-pages/assets/Images/Image-1.jpeg?raw=true)
    ![image](https://github.com/23Ruchil/Blog/blob/gh-pages/assets/Images/Image-2.jpeg?raw=true)
