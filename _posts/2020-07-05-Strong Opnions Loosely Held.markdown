@@ -6,12 +6,12 @@ title:  "Strong Opinions, Weakely Held"
 ["Strong opinions, weakly held"][jekyll-opinions] is one of the frameworks used to deal with an uncertain future and yet, still move forward. It is one of the tools to become aware and have the courage to act on your knowledge, but also have the humility to doubt what we know. It is a framework that I use to prevent myself from seeing and hearing only the things that I like and discard others. 
 
 1. **Being ruthlessly honest with yourself** : Whenever we feel dissapointed or despondent in life, we 
-     tend to blame either the triggers or the circumstances or both (if they are one and the same thing). But while buidling our hypothesis about why we feel the way we do, we forget about our actions. Example that comes my mind right now is "I could not do X, because of Y" or "I did X, becuase of Y". Rarely does the Y in this statement involves us. Being self - critical and self - aware is as important as caring about oneself. 
-     This pertains to a long held debate between Freudian and Alderian psychology. Freud's idea is that a person's psychic wounds, dissapointments, feelings cause his/her present unhapiness whereas Adler's view states that we are not determined by our experiences, but by the meaning we give them . Read more about this [here][jekyll-blog]. To quote Elon Musk : "A well thought out critque of whatever you are doing is as valuable as gold". Hence, seeking constant feedback about your skills, behaviour, conduct from your friends, acquaintance and family members is a great way to identify the areas of improvements. 
+     tend to blame either the triggers or the circumstances or both (if they are one and the same thing). But while buidling our hypothesis about why we feel the way we do, we forget about our actions. Example that comes to my mind right now is "I could not do X, because of Y" or "I did X, becuase of Y". Rarely does the Y in this statement involve us. Being self - critical and self - aware is as important as caring about oneself. 
+     This pertains to a long held debate between Freudian and Alderian psychology. Freud's idea is that a person's psychic wounds, dissapointments, feelings cause his/her present unhapiness whereas Adler's view states that we are not determined by our experiences, but by the meaning we give them . Read more about this [here][jekyll-blog]. To quote Elon Musk : "A well thought out critque of whatever you are doing is as valuable as gold". Hence, seeking constant feedback about your skills, behaviour, and conduct from your friends, acquaintance and family members is a great way to identify the areas of improvements. 
 
 2. **"What" and "How" are equally important** : This will come really handy while implementing the first 
      point. More often that not, we come across situations when we have to work with someone we do not like or when we are required to give feedback to someone. Imagine working with that one colleague of yours whom you absolutely despise or rehearsing a difficult conversation you have been planning to have with your close friend (about a thing that he/she annoys you with).In such situations, the one thing that I make sure of is communicating my feedback while keeping a check on how I communicate the same. 
-     Kmowing that "what" is something that the other person might not like, working on the "how" helps soften the blow. The intention here should not be to hurt the other person, but to communicate your feedback and help the other person improve on those areas. If he/she takes the feedback in a positive spirit and is willing to change, you have helped someone to grow personally/professionally. If he/she is not willing to budge and is not self - aware about his/her strengths/weaknesses, see how he/she reacts to point 1. You might be able to change someone's World view. 
+     Knowing that "what" is something that the other person might not like, working on the "how" helps soften the blow. The intention here should not be to hurt the other person, but to communicate your feedback and help the other person improve on those areas. If he/she takes the feedback in a positive spirit and is willing to change, you have helped someone to grow personally/professionally. If he/she is not willing to budge and is not self - aware about his/her strengths/weaknesses, see how he/she reacts to point 1. You might be able to change someone's World view. 
 
 
 3. **Giving and Seeking Advice** : Reject most advice. As per [Scott Adams][jekyll- Adams], follow systems 
@@ -20,28 +20,30 @@ title:  "Strong Opinions, Weakely Held"
 4. **Questioning More**: Our Worldview is formed mainly from what others have told us. Most things that we
    identify as true have been told to us by our parents, friends and media. We never bother to question them and form our worldview around these. The ['Five Whys'][jekyll-why] is one of the frameworks that one can use to question things. You will stop at one of the three things when you keep questioning a particular statement or belief: 
 
-   A. Endless series of Why's
-   B. Circular reasoning 
-   C. An axiom 
+   **Endless series of Why's**
+   **Circular reasoning** 
+   **An axiom**
 
-   Really looking forward to read [The Great Mental Models][jekyll-models]
+   I am really looking forward to read [The Great Mental Models][jekyll-models] to go deeper into this topic
 
-5. **The abundance problem** : Ancient struggles involved scarcity. Modern struggles are steruggles that 
-     involve aundance. People in previous generations were always looking out for food, sugar, entertainment, or resources which are not in abundance in the modern economy. We are over - exposed to almost everything and a human brain is not designed to take the click bait headline news. Teams of statisticians and programmers are working out of Silicon valley to make sure that you spend more time on these Social Media platforms. The most powerful people of this generation are not politicians, but the developers who are writing the algorithms for social media platforms such as Facebook, Instagram, Twitter, TikTok and Snapchat. One great tool that I've found to get better handle this problem is [Freedom][jekyll-freedom]. Do check it out! Additional, saying "no" as a default reponse as valuin g mu time has also been very helpful to navigate the abundance issue.Too much socialising might turn out to be the biggest problem of this generations ( transitioning one). The next generationn IMO, will learn to deal with these click bait platforms and ads way better than us. 
+5. **The abundance problem** : Ancient struggles involved scarcity. Modern struggles are struggles that 
+     involve abundance. People in previous generations were always looking out for food, entertainment, and resources which are not in abundance in the modern economy. In the modern ecpnomy, we are over - exposed to almost everything and a human brain is not designed to take the click bait headline news at the current rate. Teams of statisticians and programmers are working out of Silicon valley to make sure that you spend more time on these social media platforms and news platforms. The most powerful people of this generation are not politicians, but the developers who are writing the algorithms for social media platforms such as Facebook, Instagram, Twitter, TikTok and Snapchat. One great tool that I've found to better handle this problem is [Freedom][jekyll-freedom]. Do check it out! Additionally, saying "no" as a default reponse and putting a price to my time has also been very helpful to navigate the abundance issue.Too much socialising might turn out to be the biggest problem of this generations( transitioning one). The next generationn IMO will learn to deal with these click bait platforms and ads way better than the current one. 
 
      Words from the man himself : [Chamath Palihapitiya][jekyll-chamath]
 
 6. **Embracing Boredom** : Mastery is never an accident. You can win the lottery and become rich 
    overnight, but no one has ever mastered their craft by chance. Whether we are talking about athletes, artists, or academics, the story is the same. If you want to fulfill your potential then you must practice a specific skill for a long time with remarkable consistency. Of course, whenever “experts” share stories about successful people they often leave out a key ingredient of the story. How, exactly, do top performers fall in love with boredom? Perhaps more important, how can you fall in love with boredom when you're trying to build a habit that you know you should do, but you don't really want to do. Success is often found by practicing the fundamentals that everyone knows they should be doing, but they find too boring or basic to practice routinely. 
 
-   
+   Quouting Steve Wozniak (Co - founder of Apple): 
 
-
+   ![image](https://github.com/23Ruchil/Blog/blob/gh-pages/assets/Images/Image-1.jpeg?raw=true)
+   ![image](https://github.com/23Ruchil/Blog/blob/gh-pages/assets/Images/Image-2.jpeg?raw=true)
+   ![image](https://github.com/23Ruchil/Blog/blob/gh-pages/assets/Images/Image-4.jpeg)
 
 7. **Valuing friends and relationships** : The answers to all great questions are paradoxical in nature. 
-   Believing that life is a single player game is ok, but having friends and relationships (and valuing them) to help you navigate difficult circumstances in life is extremely important (while keeping point 3 in mind). Asking the meaning of life and "Why am I here" is something that we all do. The real beauty lies not in the answer, but in the question itself. Each one of us should look to complete this sentence "I exist because...." instead of asking "Why do I exist?". Ask "wehre can I contribute", "what excites me" instead of "what is the meaning of life". To know more, watch this [video][jekyll-video]
+   Believing that life is a single player game is ok, but having friends and relationships (and valuing them) to help you navigate difficult circumstances in life is extremely important (while keeping point 3 in mind). Asking the meaning of life and "Why am I here" is something that we all do. The real beauty lies not in the answer, but in the question itself. Each one of us should look to complete this sentence "I exist because...." instead of asking "Why do I exist?". Ask "where can I contribute", "what excites me" instead of "what is the meaning of life". Do watch this [video][jekyll-video] if you want to dig deeper into this topic. 
 
-If you like my posts, get in touch with me at ruchil.product@gmail.com. 
+I will keep expanding the list. If you like my posts, get in touch with me at ruchil.product@gmail.com. 
 
 
 [jekyll-opinions]: https://bobsutton.typepad.com/my_weblog/2006/07/strong_opinions.html
