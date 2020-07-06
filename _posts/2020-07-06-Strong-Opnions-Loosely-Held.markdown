@@ -5,7 +5,7 @@ title:  "Strong Opinions, Weakely Held"
 
 ["Strong opinions, weakly held"][jekyll-opinions] is one of the frameworks used to deal with an uncertain future and yet, still move forward. It is one of the tools to become aware and have the courage to act on your knowledge, but also have the humility to doubt what we know. It is a framework that I use to prevent myself from seeing and hearing only the things that I like and discard others. 
 
-1. **Being ruthlessly honest with yourself** : Whenever we feel disapointed or despondent in life, we 
+1. **Being ruthlessly honest with yourself** : Whenever we feel disappointed or despondent in life, we 
      tend to blame either the triggers or the circumstances or both (if they are one and the same thing). But while building our hypothesis about why we feel the way we do, we forget about our actions. Example that comes to my mind right now is "I could not do X, because of Y" or "I did X, because of Y". Rarely does the Y in this statement involve us. Being self - critical and self - aware is as important as caring about oneself. 
      This pertains to a long held debate between Freudian and Alderian psychology. Freud's idea is that a person's psychic wounds, disappointments, feelings cause his/her present unhappiness whereas Adler's view states that we are not determined by our experiences, but by the meaning we give them . Read more about this [here][jekyll-blog]. To quote Elon Musk : "A well thought out critique of whatever you are doing is as valuable as gold". Hence, seeking constant feedback about your skills, behaviour, and conduct from your friends, acquaintance and family members is a great way to identify the areas of improvements. 
 
