@@ -41,7 +41,7 @@ title:  "Strong Opinions, Weakly Held"
    ![image](https://github.com/23Ruchil/Blog/blob/gh-pages/assets/Images/Image-4.jpeg?raw=true)
 
 7. **Valuing friends and relationships** : The answers to all great questions are paradoxical in nature. 
-   Believing that life is a single player game is ok, but having friends and relationships (and valuing them) to help you navigate difficult circumstances in life is extremely important (while keeping point 3 in mind). Asking the meaning of life and "Why am I here" is something that we all do. The real beauty lies not in the answer, but in the question itself. Each one of us should look to complete this sentence "I exist because...." instead of asking "Why do I exist?". Ask "where can I contribute", "what excites me" instead of "what is the meaning of life". Do watch this [video][jekyll-video] if you want to dig deeper into this topic. 
+   Believing that life is a single player game is okay, but having friends and relationships (and valuing them) to help you navigate difficult circumstances in life is extremely important (while keeping point 3 in mind). Asking the meaning of life and "Why am I here" is something that we all do. The real beauty lies not in the answer, but in the question itself. Each one of us should look to complete this sentence "I exist because...." instead of asking "Why do I exist?". Ask "where can I contribute", "what excites me" instead of "what is the meaning of life". Do watch this [video][jekyll-video] if you want to dig deeper into this topic. 
 
 **Note**: I will keep expanding this list. 
 
