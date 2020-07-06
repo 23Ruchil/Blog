@@ -22,7 +22,7 @@ title:  "Strong Opinions, Weakely Held"
 
    * Endless series of Why's
    * Circular reasoning** 
-   * An axiom**
+   * An axiom
 
    I am really looking forward to read [The Great Mental Models][jekyll-models] to go deeper into this topic
 
