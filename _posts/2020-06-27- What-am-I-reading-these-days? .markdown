@@ -3,7 +3,7 @@ layout: post
 title:  "What am I reading these days?"
 ---
 
-With ~ 21 more books in the bag, the lockdown has turned out to be quite productive. Although I have tried to mantain variety in the kind of books and content that I read, couple of books that have stood out for me are : Courage To Be Disliked by Ichiro ishimi and Atomic Habits by James Clear. 
+With ~ 21 more books in the bag, the lockdown has turned out to be quite productive. Although I have tried to maintain variety in the kind of books and content that I read, a couple of books that have stood out for me are : Courage To Be Disliked by Ichiro Ishimi and Atomic Habits by James Clear. 
 
 Stating the names and description of the books that I liked and have read thus far: 
 
@@ -11,17 +11,17 @@ Stating the names and description of the books that I liked and have read thus f
    this one is infidelity (wait, shayad wo bhi hai), for it to become a superhit movie. Have started stalking Jack Dorsey after this. 
 
 2. [Why We Sleep?][jekyll-sleep]: I'm mostly sleep deprived and have been sleeping for less than 6 hours 
-   for quite sometime now, but this book has come across as a  lightening bolt. Never in my life have I recommended someone to rest and sleep properly, but now I do. An eye opener and a must read! 
+   for quite sometime now, but this book has come across as a  lightning bolt. Never in my life have I recommended someone to rest and sleep properly, but now I do. An eye opener and a must read! 
 
 3. [Let's Talk Money][jekyll-money]: A great starter for those looking for investment advice and save a 
    few bucks to check off that bucket list. I was already practicing most of the things mentioned in the book and will share the summary soon.
 
 4. [Atomic Habits][jekyll-habits]: One of the best books on habit formation and how we make decisions. 
-   This one is an ultimte guide to become aware about your bad habits and replace them with the good ones. Iska to itna bada fan ban gaya hun k physical copy saath lekar h sota hun. 
+   This one is an ultimate guide to become aware about your bad habits and replace them with the good ones. Iska to itna bada fan ban gaya hun k physical copy saath lekar h sota hun. 
    Next One : B.J. Fogg's : Tiny Habits. Although I've seen most of his videos
 
 5. [No Filter : The Inside Story of Instagram][jekyll-instagram]: Although I am not a big fan of Instagram 
-   as a product, this books describes how two passionate founders with complementary skillsets decided to 
+   as a product, this book describes how two passionate founders with complementary skill sets decided to 
    take on Benchmark backed portfolio company. Although the initial vision of Instagram was very different from what it has become now (Zuckerbro taking over again), I just love the fact that both Kevin and Mike left facebook when Zuck tried to take over and dominate the vision of the company. (Kevin Systrom made ~ 800M in the process)
 
 6. [Big Billion Startup : The Flipkart Story][jekyll-Flipkart] : Isme bhi, Twitter level politics, but at 
@@ -30,8 +30,8 @@ Stating the names and description of the books that I liked and have read thus f
 7. [Steven Johnson : Where Good Ideas Come From][jekyll-Good]: Well, shower and an evening walk. Hahah. On 
    a serious note, this goes deeper into how we think and how ideas shape up in our heads. 
 
-8. [The Game : Neil Strauss][jekyll-Niel-Strauss]: Welcome to the community of pickup artisits. Isn't 
-   this enought to make you read the book? 
+8. [The Game : Neil Strauss][jekyll-Niel-Strauss]: Welcome to the community of pickup artists. Isn't 
+   this enough to make you read the book? 
 
 9. [Super Pumped : The Battle of Uber][jekyll-Uber]: Well, no matter how much all of us criticize/
    ridicule Travis Kalanick, he has revolutionized the entire transportation industry through Uber. Iska bhi fan ban gaya hun. Do watch some of his talks on Youtube!
@@ -51,9 +51,9 @@ Stating the names and description of the books that I liked and have read thus f
      building specific knowledge (Naval Ravikant's framework) across different domains. 
 
 15. [Courage To Be Disliked][jekyll-courage]: Last, but this one tops the lot. Unlike its name, it doesn't 
-     tell you to do things that make others dislike you, but the fact that others dislike you make you free. Kaafi deep hai. A must read for everyone. 
+     tell you to do things that make others dislike you, but the fact that others dislike you makes you free. Kaafi deep hai. A must read for everyone. 
 
-Here's [the list][jekyll-list] of all the books that I've read this year. For the remaining half of this year, I intend to read a lot on technology, design, food and health, personal finance, investing and politics (ye zyada nahi). Along with this, I intend to read all the publicly available reports on different industry published by BCG, Mckinsey, CB Insights, VC funds, and create my own personal models and frameworks. 
+Here's [the list][jekyll-list] of all the books that I've read this year. For the remaining half of this year, I intend to read a lot on technology, design, food and health, personal finance, investing and politics (ye zyada nahi). Along with this, I intend to read all the publicly available reports on different industries published by BCG, Mckinsey, CB Insights, VC funds, and create my own personal models and frameworks. 
 
 
 [jekyll-twitter]: https://www.goodreads.com/book/show/18656827-hatching-twitter
