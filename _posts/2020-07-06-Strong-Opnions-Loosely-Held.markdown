@@ -54,7 +54,7 @@ If you like my posts, get in touch with me at ruchil.product@gmail.com.
 [jekyll-game]: https://www.goodreads.com/book/show/36064445-skin-in-the-game?from_search=true&from_srp=true&qid=XW6mDhxbYM&rank=1
 [jekyll-why]: https://en.wikipedia.org/wiki/Five_whys
 [jekyll-video]: https://www.youtube.com/watch?v=3qHkcs3kG44
-[jekyll-freedom]: https://www.youtube.com/watch?v=J54k7WrbfMg
+[jekyll-freedom]: https://freedom.to
 [jekyll-chamath]: https://www.youtube.com/watch?v=J54k7WrbfMg
 [jekyll-models]: https://www.goodreads.com/book/show/44245196-the-great-mental-models
 
