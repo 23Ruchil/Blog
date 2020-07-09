@@ -18,7 +18,7 @@ The hardest thing in a conflict is to separate the person and the points he/she 
 
 This is easier said than done and I have failed many times in the past to make this separation.
 
-When we are engaged in a heated discussion with someone we tend to listen more with the intent of replying, than to understand her point of view. We bring things from the past and use them to fight in the present
+When we are engaged in a heated discussion with someone we tend to listen more with the intent of replying, than to understand his/her point of view. We bring things from the past and use them to fight in the present
 
 We let our preconceived notions about the person cloud our judgement.
 
