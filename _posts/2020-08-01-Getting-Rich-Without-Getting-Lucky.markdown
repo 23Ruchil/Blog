@@ -22,6 +22,14 @@ This is a summary of the framework used by Naval Ravikant to create order in cha
 
 4. **Building Leverage**
 
+     Business leverage comes from capital, people, and products with no marginal cost of replication (code and media).
+   * Capital: Capital means money. To raise money, apply your specific knowledge, with accountability, and show resulting good judgment.
+   * People: Labor means people working for you. It’s the oldest and most fought-over form of leverage. Labor leverage will impress your parents, but don’t waste your life chasing it.
+   * Products: Code & Media. The Internet has massively broadened the possible space of careers. Most people haven’t figured this out yet.
+   Types of Leverage
+   * Permissioned Leverage: Capital and labor are permissioned leverage. Everyone is chasing capital, but someone has to give it to you. Everyone is trying to lead, but someone has to follow you.
+   * Permissionless Leverage: Product (Code and media) are permissionless leverage. They’re the leverage behind the newly rich. You can create software and media that works for you while you sleep. An army of robots is freely available — it’s just packed in data centers for heat and space efficiency. Use it. If you can’t code, write books and blogs, record videos and podcasts
+
 5.  Set and enforce an **aspirational personal** hourly rate. If fixing a problem will save less than your 
    hourly rate, ignore it. If outsourcing a task will cost less than your hourly rate, outsource it.
 
