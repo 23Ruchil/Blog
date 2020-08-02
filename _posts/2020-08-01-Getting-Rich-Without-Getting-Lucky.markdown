@@ -3,7 +3,7 @@ layout: post
 title:  "Getting Rich Without Getting Lucky"
 ---
 
-This is a summary of the framework used by Naval Ravikant to create order in chaos. Summarizing everythign taht I have learnt from his blogpost and podcast: 
+This is a summary of the framework used by Naval Ravikant to create order in chaos. Summarizing everything that I have learnt from his blogposts and podcasts: 
 
 1. **Wealth vs Money vs Status** 
 
@@ -18,7 +18,7 @@ This is a summary of the framework used by Naval Ravikant to create order in cha
 
 3. **Building Specific Knowledge** 
 
-   Specific knowledge is knowledge that you cannot be trained for. If society can train you, it can train someone else, and replace you. Specific knowledge is found by pursuing your genuine curiosity and passion rather than whatever is hot right now. Building specific knowledge will feel like play to you but will look like work to others.When specific knowledge is taught, it’s through apprenticeships, not schools. Specific knowledge is often highly technical or creative. It cannot be outsourced or automated. Arming yourself with specific knowledge gives you ***leverage*** and building a fortune requires leverage. Which takes me to the next point. 
+   Specific knowledge is the knowledge that you cannot be trained for. If society can train you, it can train someone else, and replace you. Specific knowledge is found by pursuing your genuine curiosity and passion rather than whatever is hot right now. Building specific knowledge will feel like play to you but will look like work to others.When specific knowledge is taught, it’s through apprenticeships, not schools. Specific knowledge is often highly technical or creative. It cannot be outsourced or automated. Arming yourself with specific knowledge gives you ***leverage*** and building a fortune requires leverage. Which takes me to the next point. 
 
 4. **Building Leverage**
 
@@ -27,7 +27,7 @@ This is a summary of the framework used by Naval Ravikant to create order in cha
    * People: Labor means people working for you. It’s the oldest and most fought-over form of leverage. Labor leverage will impress your parents, but don’t waste your life chasing it.
    * Products: Code & Media. The Internet has massively broadened the possible space of careers. Most people haven’t figured this out yet.
     
-Types of Leverage
+  Types of Leverage
   * Permissioned Leverage: Capital and labor are permissioned leverage. Everyone is chasing capital, but someone has to give it to you. Everyone is trying to lead, but someone has to follow you.
   * Permissionless Leverage: Product (Code and media) are permissionless leverage. They’re the leverage behind the newly rich. You can create software and media that works for you while you sleep. An army of robots is freely available — it’s just packed in data centers for heat and space efficiency. Use it. If you can’t code, write books and blogs, record videos and podcasts
 
@@ -38,14 +38,14 @@ Types of Leverage
 
    More often than not, we attribute things beyond our control to "being lucky". Naval Ravikant has bucketised luck into four different types: 
 
-   A. Blind Luck/Dumb Luck : Well, this is sheer dumb luck.
-   B. Luck that comes to you through persistence – “fortune favors the bold”
-   C. Spotted luck – “chance favors the prepared mind”. 
-   D. Luck that finds you 
+   * Blind Luck/Dumb Luck : Well, this is sheer dumb luck.
+   * Luck that comes to you through persistence – “fortune favors the bold”
+   * Spotted luck – “chance favors the prepared mind”. 
+   * Luck that finds you 
 
-   All B.,C. and D. come from building specific knowledge. One will enjoy a greater share of dumb luck if he/she has specific knowledge. 
+   The last three types of luck come from building specific knowledge. One will enjoy a greater share of dumb luck if he/she possesses specific knowledge. 
 
-   That's it for now. 
+   That's it for now! 
 
    If you find my posts interesting, get in touch with me at ruchil.product@gmail.com
 
