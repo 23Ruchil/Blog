@@ -24,6 +24,8 @@ If you find my posts interesting, get in touch with me at ruchil.product@gmail.c
 
   ![image](https://images.ctfassets.net/24wp3v32jh7l/2B21mAMWdxG83BaNeG1PDT/c5737fcda21063c25012de50eb54d1a3/productivity-methods_eisenhower-matrix.png)
 
+If you find my posts interesting, get in touch with me at ruchil.product@gmail.com
+
 [jekyll-productivity]: https://docs.google.com/spreadsheets/d/1OroZvtP_l4mX3FoStB306fIh3Dozx1gDApmx5PmXxUY/edit?usp=sharing
 
 
