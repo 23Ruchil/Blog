@@ -18,6 +18,9 @@ A few things that I have started doing to get back my time:
   not be the best use of your time. To avoid this, I try to make the person who proposes an idea think. You  can refer to [this][jekyll-productivity] template for more information 
 * End meetings early if you are done discussing the action items. No point extending the meeting for an 
   hour just because the calendar invite was for one hour. 
+* You may wish to choose Eisenhover matrix to prioritise your work. Refer to the image below: 
+
+  ![image](https://images.ctfassets.net/24wp3v32jh7l/2B21mAMWdxG83BaNeG1PDT/c5737fcda21063c25012de50eb54d1a3/productivity-methods_eisenhower-matrix.png)
 
 [jekyll-productivity]: https://docs.google.com/spreadsheets/d/1OroZvtP_l4mX3FoStB306fIh3Dozx1gDApmx5PmXxUY/edit?usp=sharing
 
