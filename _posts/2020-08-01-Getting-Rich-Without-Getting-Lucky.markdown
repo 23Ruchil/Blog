@@ -31,7 +31,8 @@ This is a summary of the framework used by Naval Ravikant to create order in cha
   * Permissioned Leverage: Capital and labor are permissioned leverage. Everyone is chasing capital, but someone has to give it to you. Everyone is trying to lead, but someone has to follow you.
   * Permissionless Leverage: Product (Code and media) are permissionless leverage. They’re the leverage behind the newly rich. You can create software and media that works for you while you sleep. An army of robots is freely available — it’s just packed in data centers for heat and space efficiency. Use it. If you can’t code, write books and blogs, record videos and podcasts
 
-5. Set and enforce an **aspirational personal** hourly rate. If fixing a problem will save less than your 
+
+5.  Set and enforce an **aspirational personal** hourly rate. If fixing a problem will save less than your 
    hourly rate, ignore it. If outsourcing a task will cost less than your hourly rate, outsource it.
 
 6. **Know when you are lucky** 
@@ -42,7 +43,7 @@ This is a summary of the framework used by Naval Ravikant to create order in cha
    * Luck that comes to you through persistence – “fortune favors the bold”
    * Spotted luck – “chance favors the prepared mind”. 
    * Luck that finds you 
-
+   
    The last three types of luck come from building specific knowledge. One will enjoy a greater share of dumb luck if he/she possesses specific knowledge. 
 
    That's it for now! 
