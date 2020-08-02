@@ -49,10 +49,10 @@ Types of Leverage
 
    If you find my posts interesting, get in touch with me at ruchil.product@gmail.com
 
-   [AngelList][jekyll-Angellist]: https://angel.co
-   [Crowdcube][jekyll-crowdcube]: https://www.crowdcube.com
-   [Mutual Funds][jekyll-mutualfunds]: https://en.wikipedia.org/wiki/Mutual_fund
-   [Let's Talk Money][jekyll-book]: https://www.amazon.in/s?k=lets+talk+money&adgrpid=58389672949&ext_vrnc=hi&gclid=EAIaIQobChMIzdb25v_76gIVDSQrCh2PSAQoEAAYAiAAEgLqNPD_BwE&hvadid=426078221670&hvdev=c&hvlocphy=1007765&hvnetw=g&hvqmt=e&hvrand=5468676216733939630&hvtargid=kwd-330135955363&hydadcr=23639_1979266&tag=googinhydr1-21&ref=pd_sl_7uqirjrj4i_e
+   [jekyll-Angellist]: https://angel.co
+   [jekyll-crowdcube]: https://www.crowdcube.com
+   [jekyll-mutualfunds]: https://en.wikipedia.org/wiki/Mutual_fund
+   [jekyll-book]: https://www.amazon.in/s?k=lets+talk+money&adgrpid=58389672949&ext_vrnc=hi&gclid=EAIaIQobChMIzdb25v_76gIVDSQrCh2PSAQoEAAYAiAAEgLqNPD_BwE&hvadid=426078221670&hvdev=c&hvlocphy=1007765&hvnetw=g&hvqmt=e&hvrand=5468676216733939630&hvtargid=kwd-330135955363&hydadcr=23639_1979266&tag=googinhydr1-21&ref=pd_sl_7uqirjrj4i_e
 
 
 
