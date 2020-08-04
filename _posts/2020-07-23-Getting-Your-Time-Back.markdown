@@ -20,8 +20,6 @@ A few things that I have started doing to get back my time:
   hour just because the calendar invite was for one hour. 
 * You may wish to choose Eisenhower matrix to prioritise your work. Refer to the image below: 
 
-If you find my posts interesting, get in touch with me at ruchil.product@gmail.com
-
   ![image](https://images.ctfassets.net/24wp3v32jh7l/2B21mAMWdxG83BaNeG1PDT/c5737fcda21063c25012de50eb54d1a3/productivity-methods_eisenhower-matrix.png)
 
 If you find my posts interesting, get in touch with me at ruchil.product@gmail.com
