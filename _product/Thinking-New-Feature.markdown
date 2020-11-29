@@ -1,3 +1,7 @@
+---
+title : Thinking-New-Feature
+---
+
 Last week (week from 24th May - 31st May) has turned out to be the most productive week in my life. Not that I have cut down on my side gigs or changed my priorities, but a simple addition of an age old technique called Pomodoro has changed the way I have started to think about time. Here’s how I see the difference : 
 
 **The Old Me**
