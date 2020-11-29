@@ -57,3 +57,10 @@ plugins:
 collections:
   product:
     output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "product"
+    values:
+      layout: "page"
