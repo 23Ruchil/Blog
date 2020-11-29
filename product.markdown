@@ -5,7 +5,7 @@ permalink: /product_management/
 ---
 
 {% for product in site.product %}
-- {{ product.title }}
+ - [{{ product.title }}]({{ product.url | relative_url }})
 {% endfor %}
 
   {% if site.paginate %}
