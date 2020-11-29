@@ -63,4 +63,4 @@ defaults:
       path: ""
       type: "product"
     values:
-      layout: "page"
+      layout: "post"
