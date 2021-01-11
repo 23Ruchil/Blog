@@ -4,3 +4,4 @@
 .jekyll-metadata
 vendor
 node_modules
+.DS_Store
