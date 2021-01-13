@@ -37,47 +37,7 @@
 
  * Fear and self - doubt decrease the likelihood of habit formation whereas hope increases the same. 
 
- * What matters while building new habits? 
-
-  1. Mindset 
-  2. Behaviour crafting 
-  3. Self - Insight 
-  4. Process 
-  5. Context 
-
- Last, but not the least, the entire framework for creating new habits: 
-
- 1. **Clarify th e aspiration** 
-
-    Be very specific while defining your habits. Don’t use vague statements such as I want to lose weight or score more marks. Have a strong bias towards action and make the aspiration very specific. 
-
-    One example : I want to read and summarise 70+ books by the end of this year
-
- 2. **Explore Behaviour Options** 
-
-    Explore what behaviours can you add/remove from your daily lifestyle to increase the likelihood of new habit formation. 
-    
- 3. **Match with specific behaviours**  
-
-    Add specific actions before or after anchor habits. 
-
-    Example : After having dinner, I will listen to one podcast. Just after waking up, I'll have green tea. 
-
- 4. **Start Tiny**  
-
-    Make the starting point so small so that it is extremely easy to execute. (Increasing the ability) 
-
- 5. **Find a Good Prompt**  
-
-    Use Forest or Flow app to focus and use the in - app prompts to start/end focus sessions. 
-
- 6. **Celebrate Successes** 
-
-    Have your own ways to celebrate success upon completing a desirable behaviours. Reward yourself in private or publicly. 
-  
- 7. **Troubleshoot, Iterate and Expand**  
-
-    Experiment and iterate constantly what works/doesn’t work for you. 
+ 
 2. **Atomic Habits by James Clear** 
 
     1. Make the habit an obvious thing to do 
@@ -111,7 +71,7 @@ Other Resources that may refer to:
 5. [Habit trackign apps such as Habitify, Checklist+][jekyll-apps]
 6.  Making your goals public to ensure commitment 
 
-One of the goals that I have this year is to get at least one blog post out each week using the above framework. Other resources that you can refer to: 
+One of the goals that I have this year is to get at least one blog post out each week using the above framework. If you find my posts interesting, get in touch with me at ruchil.product@gmail.com
 
 
 [jekyll-powerofhabit]: https://www.amazon.in/Power-Habit-Why-What-Change/dp/1847946240/ref=sr_1_3?crid=3OG16L8DTKU74&dchild=1&keywords=power+of+habit+charles+duhigg&qid=1610533836&sprefix=power+of+habit+Charles+%2Caps%2C289&sr=8-3
