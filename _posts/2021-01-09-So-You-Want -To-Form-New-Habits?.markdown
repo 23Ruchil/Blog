@@ -1,5 +1,5 @@
  Creating positive habits takes more than just willpower. It doesn't happen by itself as it is more science than art. It requires constant re-evaluation of where you are spending time, people whom you are spending time with and your environment. Last year, I spent significant amount of time researching this and stumbled upon different books, bootcamps and blog posts that have proven to be really helpful in planning my day and subsequently, my week. This blog post is to detail out my learnings.  
- 
+
 1. **Tiny Habits by BJ Fogg**
 
   Prof. B.J. Fogg is the founder of the Behaviour Design Lab at Stanford University and teaches industry 
@@ -37,7 +37,6 @@
 
  * Fear and self - doubt decrease the likelihood of habit formation whereas hope increases the same. 
 
- 
 2. **Atomic Habits by James Clear** 
 
     1. Make the habit an obvious thing to do 
