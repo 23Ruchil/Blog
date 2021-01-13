@@ -41,10 +41,10 @@ Habit Chain : Any of the following factors can act as a friction to form new hab
 
 [2. Atomic Habits by James Clear][jekyll-atomichabits]
 
-    1. Make the habit an obvious thing to do 
-    2. Make it attractive 
-    3. Make it easy (by increasing the ability) 
-    4. Make it satisfying : By enjoying the process and celebrating after the successful completion of the desirable behaviour. 
+1. Make the habit an obvious thing to do 
+2. Make it attractive 
+3. Make it easy (by increasing the ability) 
+4. Make it satisfying : By enjoying the process and celebrating after the successful completion of the desirable behaviour. 
     
 
 ![image](https://expertprogrammanagement.com/wp-content/uploads/2018/11/Atomic-Habits_-Plateau-of-Latent-Potential.png)
