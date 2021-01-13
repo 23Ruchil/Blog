@@ -47,7 +47,7 @@
 
  Last, but not the least, the entire framework for creating new habits: 
 
- 1. **Clarify the aspiration** 
+ 1. **Clarify th e aspiration** 
 
     Be very specific while defining your habits. Don’t use vague statements such as I want to lose weight or score more marks. Have a strong bias towards action and make the aspiration very specific. 
 
@@ -80,10 +80,10 @@
     Experiment and iterate constantly what works/doesn’t work for you. 
 2. **Atomic Habits by James Clear** 
 
-1. Make the habit an obvious thing to do 
-2. Make it attractive 
-3. Make it easy (by increasing the ability) 
-4. Make it satisfying : By enjoying the process and celebrating after the successful completion of the desirable behaviour. 
+    1. Make the habit an obvious thing to do 
+    2. Make it attractive 
+    3. Make it easy (by increasing the ability) 
+    4. Make it satisfying : By enjoying the process and celebrating after the successful completion of the desirable behaviour. 
     
 
 ![image](https://expertprogrammanagement.com/wp-content/uploads/2018/11/Atomic-Habits_-Plateau-of-Latent-Potential.png)
