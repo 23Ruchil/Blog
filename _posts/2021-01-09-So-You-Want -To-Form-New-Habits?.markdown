@@ -1,12 +1,12 @@
- Creating positive habits takes more than just willpowe and habit formation is more science than art. It requires constant re-evaluation of where you are spending time, people whom you are spending time with and your enviroment. Last year, I spent significant time researching this and stumbled upon different books and blog posts that have proven to be really helpful in planning my day and subsequently, my week. This blog post is to detail out mmy learnings.  
+ Creating positive habits takes more than just willpower. It doesn't happen by itself and it is more science than art. It requires constant re-evaluation of where you are spending time, people whom you are spending time with and your enviroment. Last year, I spent significant time researching this and stumbled upon different books, bootcamps and blog posts that have proven to be really helpful in planning my day and subsequently, my week. This blog post is to detail out my learnings.  
 
 1. **Tiny Habits by BJ Fogg**
 
   Prof. B.J. Fogg is the founder of the Behaviour Design Lab at Stanford University and teaches industry 
-  Innovators how behaviour really works. Kevin Systrom (founder of Instagram) was one of BJ Fogg’s 
+  innovators how behaviour really works. Kevin Systrom (founder of Instagram) was one of BJ Fogg’s 
   students and as in the case with any other product, habit formation is one of core elements of Instagram (stories being one of them). 
 
-  According to BJ Fogg, any behaviour can be broken down into three things : 
+  According to BJ Fogg, any behaviour can be broken down into three elements : 
 
   1. Motivation 
   2. Ability 
@@ -14,13 +14,16 @@
 
   Behaviour = MAP
 
-**Motivation** :  The least effective strategy to form new habits as one feels highly motivated during the day and less as the day progresses.   
+
+**Motivation** :  The least effective strategy to form new habits as one feels highly motivated during the day and less as the day goes by.   
  
 **Ability**: Make the action so tiny that your ability to do it increases significantly. Want to lose 10 kgs in 3 months? Just visit the gym and come out for the first three days. Want to start your own blog? Great, open any notepad and start jotting down your thoughts. We overestimate what we can achieve in the short run and underestimate what we can in the long run. Consistency >> Magnitude of Work Done
 
 **Prompt** : This is the easiest to manage among all three. Your environment speaks volumes about how serious you are about getting the job done. Designing the environment that is conducive to successful completion of a behaviour is often underestimated. A few examples would be setting up the alarm to go for a run, turning off social media notifications (prompt removal) while focussing. 
 
 ![image](https://behaviormodel.org/wp-content/uploads/2020/08/Fogg-Behavior-Model.jpg)
+
+
 
 **Other hacks**
 
@@ -38,41 +41,43 @@
 
 * What matters while building new habits? 
 
-Mindset 
-Behaviour crafting 
-Self - Insight 
-Process 
-Context 
+  1. Mindset 
+  2. Behaviour crafting 
+  3. Self - Insight 
+  4. Process 
+  5. Context 
 
 Last, but not the least, the entire framework for creating new habits: 
 
-1. Clarify the aspiration 
+ 1. **Clarify the aspiration** 
 
-Be very specific while defining your habits. Don’t use vague statements such as I want to lose weight or score more marks. Have a strong bias towards action and make the aspiration very specific. 
+    Be very specific while defining your habits. Don’t use vague statements such as I want to lose weight or score more marks. Have a strong bias towards action and make the aspiration very specific. 
 
-One example : I want to read and summarise 70+ books by the end of this year
+    One example : I want to read and summarise 70+ books by the end of this year
 
-2. Explore Behaviour Options : Explore what behaviours can you add/remove from your daily lifestyle to increase the likelihood of new habit formation. 
+ 2. **Explore Behaviour Options** 
+
+    Explore what behaviours can you add/remove from your daily lifestyle to increase the likelihood of new habit formation. 
     
-3. Match with specific behaviours 
+ 3. **Match with specific behaviours**  
 
     Add specific actions before or after anchor habits. 
 
-   Example : After having dinner, I will listen to one podcast. Just after waking up, I'll have green tea. 
+    Example : After having dinner, I will listen to one podcast. Just after waking up, I'll have green tea. 
 
-4. Start Tiny 
+ 4. **Start Tiny**  
 
-   Make the starting point so small so that it is extremely easy to execute. (Increasing the ability) 
+    Make the starting point so small so that it is extremely easy to execute. (Increasing the ability) 
 
-5. Find a Good Prompt 
+ 5. **Find a Good Prompt**  
 
-   Use Forest or Flow app to focus and use the in - app prompts to start/end focus sessions. 
+    Use Forest or Flow app to focus and use the in - app prompts to start/end focus sessions. 
 
-6. Celebrate Successes
+ 6. **Celebrate Successes** 
 
     Have your own ways to celebrate success upon completing a desirable behaviours. Reward yourself in private or publicly. 
   
-7. Troubleshoot, Iterate and Expand 
+ 7. **Troubleshoot, Iterate and Expand**  
 
     Experiment and iterate constantly what works/doesn’t work for you. 
     
@@ -103,12 +108,20 @@ One example : I want to read and summarise 70+ books by the end of this year
 
 One of the goals that I have this year is to get at least one blog post out each week using the above framework. Other resources that you can refer to: 
 
-1. Power of habit by Charles Duhigg 
-2. Hooked by Nir Eyal 
-3. Jim Kwik Podcast
-4. Tiny Habits Bootcamp 
-5. Habit trackign apps such as Habitify, Checklist+
-6. Making your goals public 
+1. [Power of habit by Charles Duhigg][jekyll-powerofhabit]
+2. [Hooked by Nir Eyal][jekyll-hooked]
+3. [Jim Kwik Podcast][jekyll-kwik]
+4. [Tiny Habits Bootcamp][jekyll-bootcamp]
+5. [Habit trackign apps such as Habitify, Checklist+][jekyll-apps]
+6.  Making your goals public to ensure commitment 
+
+[jekyll-powerofhabit] : https://www.amazon.in/Power-Habit-Why-What-Change/dp/1847946240/ref=sr_1_3?crid=3OG16L8DTKU74&dchild=1&keywords=power+of+habit+charles+duhigg&qid=1610533836&sprefix=power+of+habit+Charles+%2Caps%2C289&sr=8-3
+
+[jekyll-hooked] : https://www.amazon.in/Hooked-How-Build-Habit-Forming-Products/dp/0241184835/ref=sr_1_1?dchild=1&keywords=hooked+nir+eyal&qid=1610533881&sr=8-1
+
+[jekyll-bootcamp] : https://www.bjfogg.com/bootcamp
+
+[jekyll-apps] : https://www.habitify.me
 
 
 If you find my posts interesting, get in touch with me at ruchil.product@gmail.com 
