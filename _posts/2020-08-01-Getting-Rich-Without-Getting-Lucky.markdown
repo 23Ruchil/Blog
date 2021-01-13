@@ -7,18 +7,18 @@ This is a summary of the framework used by Naval Ravikant to create order in cha
 
 1. **Wealth vs Money vs Status** 
 
-   Seek wealth, not money or status. Wealth is having assets that earn while you sleep. Money is how we transfer time and wealth. Status is your place in the social hierarchy. Status is a zero sum game so,ignore those who enjoy playing this game. 
+   Seek wealth, not money or status. Wealth is having assets that earn while you sleep. Money is how we transfer time and wealth. Status is your place in the social hierarchy. Status is a zero sum game so,   ignore those who enjoy playing this game. 
 
 2. **Investing and Owning a Piece of a Business**
 
    Invest in equity through public markets or through angel investment or by owning some equity in your 
-   company. The likelihood of becoming insanely rich (net worth greater than Rs. 100 Cr.) by trading your time or by earning salary is extremely low.You must own equity — a piece of a business — to gain your financial freedom. A few mediums to get started with investing : [AngelList][jekyll-Angellist], [Crowdcube][jekyll-crowdcube] or [Mutual Funds][jekyll-mutualfunds]
+   company. The likelihood of becoming insanely rich (net worth greater than Rs. 100 Cr.) by trading your time or by earning salary is extremely low. You must own equity — a piece of a business — to gain financial freedom. A few mediums to get started with investing : [AngelList][jekyll-Angellist], [Crowdcube][jekyll-crowdcube] or [Mutual Funds][jekyll-mutualfunds]
 
    Monika Halal's [Let's Talk Money][jekyll-book] is a good starting point. Having an active and diversified portfolio is the key to success. 
 
 3. **Building Specific Knowledge** 
 
-   Specific knowledge is the knowledge that you cannot be trained for. If society can train you, it can train someone else, and replace you. Specific knowledge is found by pursuing your genuine curiosity and passion rather than whatever is hot right now. Building specific knowledge will feel like play to you but will look like work to others.When specific knowledge is taught, it’s through apprenticeships, not schools. Specific knowledge is often highly technical or creative. It cannot be outsourced or automated. Arming yourself with specific knowledge gives you ***leverage*** and building a fortune requires leverage. Which takes me to the next point. 
+   Specific knowledge is the knowledge that you cannot be trained for. If society can train you, it can train someone else, and replace you. Specific knowledge is found by pursuing your genuine curiosity and passion rather than whatever is hot right now. Building specific knowledge will feel like play to you but will look like work to others. When specific knowledge is taught, it’s through apprenticeships, not schools. Specific knowledge is often highly technical or creative. It cannot be outsourced or automated. Arming yourself with specific knowledge gives you ***leverage*** and building a fortune requires leverage. Which takes me to the next point. 
 
 4. **Building Leverage**
 
