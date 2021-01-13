@@ -15,27 +15,29 @@
   Behaviour = MAP
 
 
- **Motivation** :  The least effective strategy to form new habits as one feels highly motivated during the day and less as the day goes by.   
+  **Motivation** :  The least effective strategy to form new habits as one feels highly motivated during the day and less as the day goes by.   
  
- **Ability**: Make the action so tiny that your ability to do it increases significantly. Want to lose 10 kgs in 3 months? Just visit the gym and come out for the first three days. Want to start your own blog? Great, open any notepad and start jotting down your thoughts. We overestimate what we can achieve in the short run and underestimate what we can in the long run. Consistency >> Magnitude of Work Done
+  **Ability**: Make the action so tiny that your ability to do it increases significantly. Want to lose 10 kgs in 3 months? Just visit the gym and come out for the first three days. Want to start your own blog? 
+               Great, open any notepad and start jotting down your thoughts. We overestimate what we can achieve in the short run and underestimate what we can in the long run. Consistency >> Magnitude of Work Done
 
- **Prompt** : This is the easiest to manage among all three. Your environment speaks volumes about how serious you are about getting the job done. Designing the environment that is conducive to successful completion of a behaviour is often underestimated. A few examples would be setting up the alarm to go for a run, turning off social media notifications (prompt removal) while focussing. 
+  **Prompt** : This is the easiest to manage among all three. Your environment speaks volumes about how serious you are about getting the job done. Designing the environment that is conducive to successful 
+               completion of a behaviour is often underestimated. A few examples would be setting up the alarm to go for a run, turning off social media notifications (prompt removal) while focussing. 
 
- ![image](https://behaviormodel.org/wp-content/uploads/2020/08/Fogg-Behavior-Model.jpg)
+    ![image](https://behaviormodel.org/wp-content/uploads/2020/08/Fogg-Behavior-Model.jpg)
 
- **Other hacks**
+  **Other hacks**
 
- * Habit Chain : Any of the following factors can act as a friction to form new habits successfully : 
+    * Habit Chain : Any of the following factors can act as a friction to form new habits successfully : 
 
- 1. Time 
- 2. Money 
- 3. Physical Effort 
- 4. Mental Effort 
- 5. Routine 
+    1. Time 
+    2. Money 
+    3. Physical Effort 
+    4. Mental Effort 
+    5. Routine 
 
- * Pinpoint the exact root cause and try to fix it. 
+    * Pinpoint the exact root cause and try to fix it. 
 
- * Fear and self - doubt decrease the likelihood of habit formation whereas hope increases the same. 
+    * Fear and self - doubt decrease the likelihood of habit formation whereas hope increases the same. 
 
 2. **Atomic Habits by James Clear** 
 
