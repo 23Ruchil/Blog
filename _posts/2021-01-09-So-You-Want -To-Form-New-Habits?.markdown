@@ -1,6 +1,6 @@
  Creating positive habits takes more than just willpower. It doesn't happen by itself as it is more science than art. It requires constant re-evaluation of where you are spending time, people whom you are spending time with and your environment. Last year, I spent significant amount of time researching this and stumbled upon different books, bootcamps and blog posts that have proven to be really helpful in planning my day and subsequently, my week. This blog post is to detail out my learnings.  
 
-[1.Tiny Habits by BJ Fogg][jekyll-tinyhabits]
+[1. Tiny Habits by BJ Fogg][jekyll-tinyhabits]
 
   Prof. B.J. Fogg is the founder of the Behaviour Design Lab at Stanford University and teaches industry 
   innovators how behaviour really works. Kevin Systrom (founder of Instagram) was one of BJ Fogg’s 
@@ -35,11 +35,11 @@ Habit Chain : Any of the following factors can act as a friction to form new hab
   4. Mental Effort 
   5. Routine 
 
-    * Pinpoint the exact root cause and try to fix it. 
+* Pinpoint the exact root cause and try to fix it. 
 
-    * Fear and self - doubt decrease the likelihood of habit formation whereas hope increases the same. 
+* Fear and self - doubt decrease the likelihood of habit formation whereas hope increases the same. 
 
-[2.Atomic Habits by James Clear][jekyll-atomichabits]
+[2. Atomic Habits by James Clear][jekyll-atomichabits]
 
     1. Make the habit an obvious thing to do 
     2. Make it attractive 
