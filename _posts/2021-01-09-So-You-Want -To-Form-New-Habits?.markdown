@@ -1,4 +1,4 @@
- Creating positive habits takes more than just willpower. It doesn't happen by itself and it is more science than art. It requires constant re-evaluation of where you are spending time, people whom you are spending time with and your enviroment. Last year, I spent significant time researching this and stumbled upon different books, bootcamps and blog posts that have proven to be really helpful in planning my day and subsequently, my week. This blog post is to detail out my learnings.  
+ Creating positive habits takes more than just willpower. It doesn't happen by itself as it is more science than art. It requires constant re-evaluation of where you are spending time, people whom you are spending time with and your environment. Last year, I spent significant amount of time researching this and stumbled upon different books, bootcamps and blog posts that have proven to be really helpful in planning my day and subsequently, my week. This blog post is to detail out my learnings.  
  
 1. **Tiny Habits by BJ Fogg**
 
@@ -78,7 +78,6 @@
  7. **Troubleshoot, Iterate and Expand**  
 
     Experiment and iterate constantly what works/doesn’t work for you. 
-
 2. **Atomic Habits by James Clear** 
 
 1. Make the habit an obvious thing to do 
@@ -118,6 +117,8 @@ One of the goals that I have this year is to get at least one blog post out each
 [jekyll-powerofhabit]: https://www.amazon.in/Power-Habit-Why-What-Change/dp/1847946240/ref=sr_1_3?crid=3OG16L8DTKU74&dchild=1&keywords=power+of+habit+charles+duhigg&qid=1610533836&sprefix=power+of+habit+Charles+%2Caps%2C289&sr=8-3
 
 [jekyll-hooked]: https://www.amazon.in/Hooked-How-Build-Habit-Forming-Products/dp/0241184835/ref=sr_1_1?dchild=1&keywords=hooked+nir+eyal&qid=1610533881&sr=8-1
+
+[jekyll-kwik]: https://open.spotify.com/show/7BQZHMsYPInemu2GMVSYNH
 
 [jekyll-bootcamp]: https://www.bjfogg.com/bootcamp
 
