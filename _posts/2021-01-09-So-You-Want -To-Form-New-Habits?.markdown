@@ -52,7 +52,7 @@ Habit Chain : Any of the following factors can act as a friction to form new hab
 
 **Other Hacks** : 
 
-**Batching** : Club similar habits together to get things done. One example could be listening to podcasts while going for a walk. 
+**Batching** : Club similar habits together to get things done. One example could be listening to podcast while going for a walk. 
 
 **Embracing Boredom** : It takes a long time to successfully build and sustain new habits, so embrace boredom. 
 
@@ -63,14 +63,14 @@ Habit Chain : Any of the following factors can act as a friction to form new hab
 **Change the content of self - talk** : If you want to read more, do not tell yourself : “I want to read more"; instead say "I am a reader”. The key to building lasting habits is focusing on creating a new identity. 
 
 
-Other Resources that may refer to: 
+Other Resources that may you refer to: 
 
 1. [Power of habit by Charles Duhigg][jekyll-powerofhabit]
 2. [Hooked by Nir Eyal][jekyll-hooked]
 3. [Jim Kwik Podcast][jekyll-kwik]
 4. [Tiny Habits Bootcamp][jekyll-bootcamp]
 5. [Habit tracking apps such as Habitify, Checklist+][jekyll-apps]
-6.  Making your goals public to ensure accountbability
+6.  Making your goals public to ensure accountability
 
 One of the goals that I have this year is to get at least one blog post out each week using the above framework. 
 
