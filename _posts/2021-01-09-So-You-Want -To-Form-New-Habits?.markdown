@@ -63,7 +63,7 @@ Habit Chain : Any of the following factors can act as a friction to form new hab
 **Change the content of self - talk** : If you want to read more, do not tell yourself : “I want to read more"; instead say "I am a reader”. The key to building lasting habits is focusing on creating a new identity. 
 
 
-Other Resources that may you refer to: 
+Other resources that you may refer to: 
 
 1. [Power of habit by Charles Duhigg][jekyll-powerofhabit]
 2. [Hooked by Nir Eyal][jekyll-hooked]
