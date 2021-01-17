@@ -56,7 +56,7 @@ Habit Chain : Any of the following factors can act as a friction to form new hab
 
 **Embracing Boredom** : It takes a long time to successfully build and sustain new habits, so embrace boredom. 
 
-**Process over Outcomes** : Focus on completing the habit rather than achieving the goal. It takes a while to realise the power of compunding. 
+**Process over Outcomes** : Focus on completing the habit rather than achieving the goal. It takes a while to realise the power of compounding. 
 
 **Role of friends and family** : Choose your peers wisely. Peers who will contribute towards the successful change in habits. Everything else is secondary. 
 
