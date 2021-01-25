@@ -32,8 +32,6 @@ Three most important things that customers prefer while selecting any apparel pr
 - Quality of the material used
 - Fit
 
-![image](blob:https://pasteboard.co/2f0f8ee5-af55-41a9-a020-0c1dc509ddc3) 
-
 2.**Food and Beverage**
 
 **Taste** remains to be the strongest differentiator when it comes to customer preference within the F&B category. No matter how well packaged your product is and who endorses the product, if it tastes bad, the expectation to have your customer buy the product again is unfair. Some of the categories that are currently being disrupted are : 
