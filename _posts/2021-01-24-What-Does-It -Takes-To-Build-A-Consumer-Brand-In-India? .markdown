@@ -32,7 +32,7 @@ Three most important things that customers prefer while selecting any apparel pr
 - Quality of the material used
 - Fit
 
-[Customer Preference](blob:https://pasteboard.co/2f0f8ee5-af55-41a9-a020-0c1dc509ddc3) 
+![image](blob:https://pasteboard.co/2f0f8ee5-af55-41a9-a020-0c1dc509ddc3) 
 
 2.**Food and Beverage**
 
