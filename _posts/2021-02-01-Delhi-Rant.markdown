@@ -25,6 +25,6 @@ I've stayed in Delhi - NCR for ~ 1.5 years now (since September 2019) and came b
 
 With that being said, there are some beautiful things about Delhi such as food, which I will miss. The above pointers are based on my personal experiences and opinions of some of my close friends. You may choose to disagree and form your opinion/experiences. 
 
-P.S. :  I do not wish to come back to Delhi unless I'm forced to.
+P.S. :  Off to Bangalore now and leaving Delhi for good. I do not wish to come back to Delhi unless I'm forced to.
 
 If you find my posts interesting, get in touch with me at [ruchil.product@gmail.com](mailto:ruchil.product@gmail.com)
