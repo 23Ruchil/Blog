@@ -30,6 +30,8 @@ If you are the smartest individual and get validated from others all the time, y
 
 ![image](https://github.com/23Ruchil/Blog/blob/gh-pages/assets/Images/Table.jpg?raw=true)
 
-To be a philosophical king, one needs to become a king first. So, moving forward, I'll stop posting generic stuff and more about product and venture capital. 
+To be a philosophical king, one needs to become a king first. So, moving forward, I'll avoid posting generic stuff unless I am really temted to. 
+
+P.S. : Forgive me for my drawing skills. It is one of the OKRs for this year and treating it as a [product](https://23ruchil.github.io/Blog/2021/02/01/Everything-Is-A-Product.html) 
 
 If you find my posts interesting, get in touch with me at [ruchil.product@gmail.com](mailto:ruchil.product@gmail.com)
