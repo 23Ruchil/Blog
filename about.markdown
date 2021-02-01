@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hello, I am Ruchil, currently working as Chief Firefighting Officer at : [CreatorOS][https://www.creatoros.co]
+Hello, I am Ruchil, currently working as Chief Firefighting Officer at : [CreatorOS][jekyll-creatoros]
 
 [jekyll-grofers]: https://en.wikipedia.org/wiki/Grofers
 
@@ -22,9 +22,10 @@ When not working, I spend my time [reading][jekyll-read], [writing][jekyll-write
 [jekyll-harmonica]: https://www.youtube.com/watch?v=ddM5RlWSJ4E
 
 
-You can follow me on [LinkedIn][jekyll-linkedin], and [Twitter][jekyll-twitter]
+You can follow me on [Twitter][jekyll-twitter]
 
 [jekyll-twitter]: https://twitter.com/RuchRuchil
 [jekyll-linkedin]: www.linkedin.com/in/ruchil-sharma-7916a4a1
+[jekyll-creatoros] : https://www.creatoros.co
 
 
