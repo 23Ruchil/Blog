@@ -76,3 +76,5 @@ Unless the time to distribution and personalisation is solved (as mentioned in t
 1. Founders of all the brands who took the time out to speak with me 
 
 2. My colleagues and mentors at Kalaari
+
+If you find my posts interesting, get in touch with me at ruchil.product@gmail.com
