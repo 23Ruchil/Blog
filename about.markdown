@@ -26,6 +26,6 @@ You can follow me on [Twitter][jekyll-twitter]
 
 [jekyll-twitter]: https://twitter.com/RuchRuchil
 [jekyll-linkedin]: www.linkedin.com/in/ruchil-sharma-7916a4a1
-[jekyll-creatoros] : https://www.creatoros.co
+[jekyll-creatoros]: https://www.creatoros.co
 
 
