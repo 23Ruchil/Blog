@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Hello, I am Ruchil, currently working in the Consumer Product team of one of India's largest E - Commerce firms in the grocery segment: [Grofers][jekyll-grofers]
+Hello, I am Ruchil, currently working as Chief Firefighting Officer at : [CreatorOS][https://www.creatoros.co]
 
 [jekyll-grofers]: https://en.wikipedia.org/wiki/Grofers
 
-In the past I have worked with [Kalaari Capital][jekyll-docs], [Hotstar][jekyll-gh] and [Government of Andhra Pradesh][jekyll-talk].
+In the past I have worked with [Kalaari Capital][jekyll-docs], [Hotstar][jekyll-gh], [Grofers][jekyll-grofers] and [Government of Andhra Pradesh][jekyll-talk].
 
 [jekyll-docs]: https://www.kalaari.com
 [jekyll-gh]: https://www.hotstar.com/in
