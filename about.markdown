@@ -24,7 +24,7 @@ When not working, I spend my time [reading][jekyll-read], [writing][jekyll-write
 
 You can follow me on [Twitter][jekyll-twitter]
 
-[jekyll-twitter]: https://twitter.com/RuchRuchil
+[jekyll-twitter]: https://twitter.com/Rooh_chill
 [jekyll-linkedin]: www.linkedin.com/in/ruchil-sharma-7916a4a1
 [jekyll-creatoros]: https://www.creatoros.co
 
