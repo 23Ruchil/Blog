@@ -20,9 +20,7 @@ After 4 years, I have started using Social Media platforms again. While I had no
 
 ![image](https://github.com/23Ruchil/Blog/blob/gh-pages/assets/Images/Instagram.jpg?raw=true)
 
-I would appreciate if people can bring some innovation to their replies and not copy/paste 
-
- "great". 
+I would appreciate if people can bring some innovation to their replies and not copy/paste "great" or "wow". 
 
 **Leave the Table**
 
@@ -30,8 +28,8 @@ If you are the smartest individual and get validated from others all the time, y
 
 ![image](https://github.com/23Ruchil/Blog/blob/gh-pages/assets/Images/Table.jpg?raw=true)
 
-To be a philosophical king, one needs to become a king first. So, moving forward, I'll avoid posting generic stuff unless I am really temted to. 
+To be a philosophical king, one needs to become a king first. So, moving forward, I'll avoid posting generic stuff unless I am really tempted to. 
 
-P.S. : Forgive me for my drawing skills. It is one of the OKRs for this year and treating it as a [product](https://23ruchil.github.io/Blog/2021/02/01/Everything-Is-A-Product.html) 
+P.S. : Forgive me for my drawing skills. It is one of the OKRs for this year and I am treating it as a [product](https://23ruchil.github.io/Blog/2021/02/01/Everything-Is-A-Product.html) 
 
 If you find my posts interesting, get in touch with me at [ruchil.product@gmail.com](mailto:ruchil.product@gmail.com)
