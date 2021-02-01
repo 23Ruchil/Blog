@@ -1,6 +1,6 @@
 This realisation came to me after reading the biographies of Michael Jordan and Leonardo Da Vinci. Some of the VCs and Product Folks in Silicon Valley also subscribe to this thought. They treat themselves and their careers as that of professional athletes. According to them, the way you conduct yourself, the way you eat, your personal journal or as a matter of fact, your fingernails are nothing but mini - products. They see these attributes as features and a part of a bigger product i.e. themselves. 
 
-Not long ago, I met someone who treated her legal documents as a product. Stripe employees treat documentation as a part of their product development process. 
+Stripe employees treat documentation as a part of their product development process. 
 
 The next question that one should ask  : What does it mean for anything to be a product? Well, it means that it can be broken down into smaller chunks conceptually. Each detail can be worked upon and can be made better so that when all the pieces are reconnected, the picture looks significantly better than what it was. A few examples :  
 
