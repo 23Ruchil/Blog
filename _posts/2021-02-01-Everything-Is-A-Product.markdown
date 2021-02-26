@@ -20,7 +20,7 @@ KPIs:
 Processes that affect the KPIs: 
 
 1. Device used while reading i.e. Kindle/Mobile/Tablet 
-2. Background music (f any)
+2. Background music (if any)
 3. Environment 
 4. Posture 
 .
