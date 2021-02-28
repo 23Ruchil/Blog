@@ -1,19 +1,17 @@
-This is in continuation to my last post on Forming New Habits. You can check it out [here](https://23ruchil.github.io/Blog/2021/01/09/So-You-Want-To-Form-New-Habits.html). Upon reading that, some of friends asked me to detail out the tools/platforms that I use to form and stick to my daily habits habits. Listing some of them down here : 
+This is in continuation to my last post on Forming New Habits. You can check it out [here](https://23ruchil.github.io/Blog/2021/01/09/So-You-Want-To-Form-New-Habits.html). Upon reading that, some of my friends asked me to detail out the tools/platforms that I use to form and stick to my dily habits. Listing some of them down here : 
 
 A. **Note - Taking**
 
 1. [Evernote](https://evernote.com) : Everything new that I come across goes into Evernote. I use  7 - 10 different 
-
-   accounts with each account having a different purpose such as writing, online learning, book 
-   summaries, designing. 
+    accounts with each account having a different purpose such as writing, online learning, book summaries, designing. 
 
 2. [Notion](https://www.notion.so/) : While some of the notebooks are same as that on Evernote, I use Notion when I'm
     using Desktop or on web. Notion is a place where all my notes are structured so that 
     I can pull info. on any topic anytime. 
 
 3. [Notability](https://www.gingerlabs.com/) : One of the best apps for taking notes. The experience of writing on a paper using
-    a pen/pencil is unbeatable. I use Notability on iPad and iPhone using Apple Pencil  and compile 
-    all of them on Notion at the end of the week. 
+    a pen/pencil is unbeatable. I use Notability on iPad and iPhone along with Apple Pencil and compile 
+    all of my notes on Notion at the end of each week. 
    
 4. [Google Keep](https://play.google.com/store/apps/details?id=com.google.android.keep&hl=en_IN&gl=US) : Everything high level/strategic goes here  
 
@@ -36,8 +34,7 @@ A. **Note - Taking**
 
 C. **Focus and Time Tracking**
 
-1. [Forest](https://www.forestapp.cc) : The best app out there to implement the Pomodoro technique. Unfortunately, it is 
-is not available for Mac
+1. [Forest](https://www.forestapp.cc) : The best app out there to implement the Pomodoro technique. Unfortunately, it is not available for Mac
 
 2. [Flow](https://flowapp.info) : Use this to implement Pomodoro while working on the Mac 
 
@@ -48,7 +45,7 @@ is not available for Mac
 D. **Habit Tracking**
 
 1. [Habitify](https://www.habitify.me) : List down all the habits that you want to implement. Habitify will make sure that you 
-   get atleast one notification of 0/10 habits completed today. That notification is a game changer.
+   get atleast one notification stating "0/10 habits completed today". That notification is a game changer.
 
 2. [Mometum](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?hl=en) : Momentum is a Google Chrome extension that replaces new tab page with a 
     personal dashboard featuring to-do, weather, and inspiration.
@@ -67,14 +64,12 @@ F. **Design**
 
 1. [Procreate](https://procreate.art) : I'm still a noob at Procreate, but I'll become good at it by the end of this year. 
  
-2. [Figma](https://www.figma.com/) : Still early in my journey to master Figma. Figma is one of the most used and talked    
-    about tools in the design community. 
+2. [Figma](https://www.figma.com/) : Still early in my journey to master Figma. Figma is one of the most used and talked about tools in the design community. 
 
-3. Tool for writing a Comic book : Still in the exploration mode. Any suggestions will be 
-     appreciated. 
+3. **Tool for writing a Comic book** : Still in the exploration mode. Any suggestions will be appreciated. 
 
 G. **[This Blog](https://23ruchil.github.io/Blog/)**
 
 More than anything else, this blog is a reminder to myself. A reminder to ensure that I share my notes and learnings with others over the internet and create value for others. 
 
-There are a ton of other tools that I came across while reading Tools of Titan. I will summarise their effectiveness in another blog later this year. Till then, I'd be love to know more  about the tools that you consistently use and subsequently, make them a part of my habit stack. Get in touch with me at ruchil.product@gmail.com
+There are a ton of other tools that I came across while reading [Tools of Titans]. I will summarise their effectiveness in another blog later this year. Till then, I'd be love to know more  about the tools that you consistently use and subsequently, make them a part of my habit stack. Get in touch with me at ruchil.product@gmail.com
