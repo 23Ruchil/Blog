@@ -1,4 +1,4 @@
-This is in continuation to my last post on Forming New Habits. You can check it out [here](https://23ruchil.github.io/Blog/2021/01/09/So-You-Want-To-Form-New-Habits.html). Upon reading that, some of my friends asked me to detail out the tools/platforms that I use to form and stick to my dily habits. Listing some of them down here : 
+This is in continuation to my last post on Forming New Habits. You can check it out [here](https://23ruchil.github.io/Blog/2021/01/09/So-You-Want-To-Form-New-Habits.html). Upon reading that, some of my friends asked me to detail out the tools/platforms that I use to form and stick to my daily habits. Listing some of them down here : 
 
 A. **Note - Taking**
 
@@ -18,13 +18,13 @@ A. **Note - Taking**
 5. [Whatsapp](https://www.whatsapp.com/?lang=en) : The best note - taking app out there. I have 15 - 20 different groups where I share
      notes to myself and subsequently, put it all on Notion at the end of each week. 
 
-### **B. Reading**
+ **B. Reading**
 
 1. [Outread](https://outreadapp.com) : This is one of the best apps that can help you read at 500 wpm with quality 
-    retention. Highly recommend this one 
+    retention. Highly recommend this one.
 
 2. [Speechify](https://speechify.com) : I use Speechify to read articles that I find online at 400wpm - 500wpm. Not the 
-    best product out there as it does not help one to bucketize the articles 
+    best product out there as it does not help one to bucketize the articles.
 
 3. [Kindle](https://play.google.com/store/apps/details?id=com.amazon.kindle&hl=en_IN&gl=US) : I use Kindle on rare occasions as it does not have speed reading tracker built into it. 
 
@@ -62,14 +62,14 @@ E. **Health and Fitness**
 
 F. **Design**
 
-1. [Procreate](https://procreate.art) : I'm still a noob at Procreate, but I'll become good at it by the end of this year. 
+1. [Procreate](https://procreate.art) : I'm still a noob at Procreate; the objective is to be great by the end of this year. 
  
-2. [Figma](https://www.figma.com/) : Still early in my journey to master Figma. Figma is one of the most used and talked about tools in the design community. 
+2. [Figma](https://www.figma.com/) : Still early in my journey to master Figma. Figma is one of the most used and talked about tools within the design community. 
 
 3. **Tool for writing a Comic book** : Still in the exploration mode. Any suggestions will be appreciated. 
 
 G. **[This Blog](https://23ruchil.github.io/Blog/)**
 
-More than anything else, this blog is a reminder to myself. A reminder to ensure that I share my notes and learnings with others over the internet and create value for others. 
+More than anything else, this blog is a reminder to myself. A reminder to re-read my notes and share my learnings with others over the internet. 
 
-There are a ton of other tools that I came across while reading [Tools of Titans]. I will summarise their effectiveness in another blog later this year. Till then, I'd be love to know more  about the tools that you consistently use and subsequently, make them a part of my habit stack. Get in touch with me at ruchil.product@gmail.com
+There are a ton of other tools that I came across while reading [Tools of Titans](https://www.amazon.in/Tools-Titans-Billionaires-World-class-Performers/dp/1328683788) I will summarise their effectiveness in another blog later this year. Till then, I'd be love to know more  bout the tools that you consistently use and subsequently, make them a part of my habit stack. Get in touch with me at ruchil.product@gmail.com
