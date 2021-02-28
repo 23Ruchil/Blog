@@ -66,7 +66,7 @@ F. **Design**
  
 2. [Figma](https://www.figma.com/) : Still early in my journey to master Figma. Figma is one of the most used and talked about tools within the design community. 
 
-3. **Tool for writing a Comic book** : Still in the exploration mode. Any suggestions will be appreciated. 
+3. **Tool for writing a Comic book** : Still in the exploration mode. Any suggestion will be appreciated. 
 
 G. **[This Blog](https://23ruchil.github.io/Blog/)**
 
