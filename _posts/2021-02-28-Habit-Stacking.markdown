@@ -1,6 +1,6 @@
 This is in continuation to my last post on Forming New Habits. You can check it out [here](https://23ruchil.github.io/Blog/2021/01/09/So-You-Want-To-Form-New-Habits.html). Upon reading that, some of friends asked me to detail out the tools/platforms that I use to form and stick to my daily habits habits. Listing some of them down here : 
 
-### A. **Note - Taking**
+A. **Note - Taking**
 
 1. [Evernote](https://evernote.com) : Everything new that I come across goes into Evernote. I use  7 - 10 different 
 
@@ -34,7 +34,7 @@ This is in continuation to my last post on Forming New Habits. You can check it 
     my summaries if they do not have enough time to read the book. In addition to this, Goodreads
     is one of my go - to book discovery platforms. 
 
-### C. **Focus and Time Tracking**
+C. **Focus and Time Tracking**
 
 1. [Forest](https://www.forestapp.cc) : The best app out there to implement the Pomodoro technique. Unfortunately, it is 
 is not available for Mac
@@ -45,17 +45,17 @@ is not available for Mac
 
 4. [Google Calendar](https://www.google.com/calendar/about/) : I put everything on Google calendar and ensure that I review it every week. The objective is to know where you are spending your time and maximise productivity. You'd be surprised to know how conveniently you end up wasting your time on things that you despise.
 
-### D. **Habit Tracking**
+D. **Habit Tracking**
 
-****1. [Habitify](https://www.habitify.me) : List down all the habits that you want to implement. Habitify will make sure that you 
+1. [Habitify](https://www.habitify.me) : List down all the habits that you want to implement. Habitify will make sure that you 
    get atleast one notification of 0/10 habits completed today. That notification is a game changer.
 
 2. [Mometum](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?hl=en) : Momentum is a Google Chrome extension that replaces new tab page with a 
     personal dashboard featuring to-do, weather, and inspiration.
 
-### E. **Health and Fitness**
+E. **Health and Fitness**
 
-****1. [Step Set Go](https://play.google.com/store/apps/details?id=com.pepkit.ssg&hl=en_IN&gl=US) : I review the number of steps walked on SSG everyday
+1. [Step Set Go](https://play.google.com/store/apps/details?id=com.pepkit.ssg&hl=en_IN&gl=US) : I review the number of steps walked on SSG everyday
 
 2. [Fibit Versa 2](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiEyOn_94vvAhWUMysKHUUHB8EYABAIGgJzZg&ohost=www.google.com&cid=CAESQOD2KY7U0HT8nt4tmqEfXbn6V3OTTuG8kPiJY-7avVbAY8VlPgo_rUFC3SdWYwP49anX7XQJS5OU-MWcXFB3mRs&sig=AOD64_1ZRqdPtVAEysTOlSdCVdNwga6u7A&q&adurl&ved=2ahUKEwiOt9__94vvAhVReH0KHQ3jDMkQ0Qx6BAgaEAE) : Getting a Fitbit health tracker today. I hope it does justice to its hype 
 
@@ -63,9 +63,9 @@ is not available for Mac
      you get access to all its premium features without paying. How? Just write an email to their 
      team. 
 
-### F. **Design**
+F. **Design**
 
-****1. [Procreate](https://procreate.art) : I'm still a noob at Procreate, but I'll become good at it by the end of this year. 
+1. [Procreate](https://procreate.art) : I'm still a noob at Procreate, but I'll become good at it by the end of this year. 
  
 2. [Figma](https://www.figma.com/) : Still early in my journey to master Figma. Figma is one of the most used and talked    
     about tools in the design community. 
@@ -73,7 +73,7 @@ is not available for Mac
 3. Tool for writing a Comic book : Still in the exploration mode. Any suggestions will be 
      appreciated. 
 
-### G. **[This Blog](https://23ruchil.github.io/Blog/)**
+G. **[This Blog](https://23ruchil.github.io/Blog/)**
 
 More than anything else, this blog is a reminder to myself. A reminder to ensure that I share my notes and learnings with others over the internet and create value for others. 
 
