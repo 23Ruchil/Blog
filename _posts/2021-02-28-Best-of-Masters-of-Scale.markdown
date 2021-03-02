@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Best of Masters of Scale"
+---
+
+
 Below is the list of podcasts from Masters of Scale series that I found the most engaging and insightful. I finished listening to all its episodes last year. This is for those who are short on time and wondering where to start. 
 
 1. [A Masterclass in Outsourcing with Luis von Ahn](https://mastersofscale.com/luis-von-ahn/)  (Duolingo)
