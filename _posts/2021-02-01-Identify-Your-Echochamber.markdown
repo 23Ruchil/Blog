@@ -1,9 +1,7 @@
 After 4 years, I have started using Social Media platforms again. While I had no difficulties posting (except stories on Instagram), there are certain observations and patterns that I have started to come across different social media platforms. Detailing them out here : 
 
-1.**Twitter :** Tagline from a user's perspective : I am smart and "intellectual" as well. Please koi 
-    meri bhi sun lo. 
-    
-    From replying on Elon Musk's and Balajis Tweets to posting random threads on why you should 
+1.**Twitter** Tagline from a user's perspective : I am smart and "intellectual" as well. Please koi 
+    meri bhi sun lo. From replying on Elon Musk's and Balajis Tweets to posting random threads on why you should 
     switch to Signal, Twitter is an echo - chamber of wanna be "intellectuals". While Twitter does 
     help one get deep insights into any topic from some of the most credible individuals, it is also 
     an echo - chamber of people who are "faking" it till they make it. There's nothing right/wrong in 
@@ -11,10 +9,8 @@ After 4 years, I have started using Social Media platforms again. While I had no
 
 ![image](https://github.com/23Ruchil/Blog/blob/gh-pages/assets/Images/Twitter.jpg?raw=true)
 
-2.**Instagram**  **:** Tagline from a user's perspective : I can post, apply filters, travel to Thailand and 
-    Dubai. Mein bhi fake Picasso. 
-
-    Scrolling through some of the posts on Instagram is a sheer delight as it is one of the biggest 
+2.**Instagram** Tagline from a user's perspective : I can post, apply filters, travel to Thailand and 
+    Dubai. Mein bhi fake Picasso. Scrolling through some of the posts on Instagram is a sheer delight as it is one of the biggest 
     echo chambers. Same is the case with Facebook. A snapshot of the post : 
 
 ![image](https://github.com/23Ruchil/Blog/blob/gh-pages/assets/Images/Instagram.jpg?raw=true)
