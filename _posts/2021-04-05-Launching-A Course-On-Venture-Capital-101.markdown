@@ -1,0 +1,13 @@
+"VC is a black box. It is a tightly knit community and this makes it really hard to know the inner workings of a VC fund. It is one thing to know about VC through blogs and books and another through a group of people who have been there, done that!" 
+
+These are some of the most common remarks that I've come across when speaking to most folks who aspire to break into Venture capital. From those in B - schools to those working in corporates, getting into a Venture Capital firm seems a far fetched dream. 
+
+I entered Venture Capital with the expectation of helping founders build scalable products, but was given a reality check once I got to know the inner workings of the fund. Why would a founder who has spent somewhere between 2 - 10 years take my advice in building the product?  The best way to know how to build a scalable product is to build one yourself. I exited the world of Venture Capital to be a part of product building myself and with the expectation to make a return after gaining foundational skillsets in my arsenal so that I can be of enough value to the founders later in my career. 
+
+With that being said, a stint at a VC fund teaches you a number of things. The first and most important one being selfless. One needs to be selfless while reaching out to the founders and empathise with them. While there are enough smart folks around, founders are the ones with courage. They are the ones who dream big; who provide employment to millions of individuals. VCs cannot exist without such founders, but founders can thrive without VCs! Some of the other skills that one picks during a stint at a VC firm are structured thinking, discipline, relationship building (networking being a fancy word used for this), and building, refining intuition pertaining to different sectors. 
+
+To ensure that more folks do not repeat the mistakes that we've made, we are launching a course on Venture Capital 101. The objective of this course is to familiarise VC aspirants with how a VC firm functions and help them get a stint at one. We do not guarantee a job out of this course and hence, are only interested in speaking those who wish to learn about Venture Capital. You can find the details about the course [here.](https://www.notion.so/Course-Structure-VC-101-0ba0ab2cc7164295b0cba7691c4b6a26) 
+
+While we may not have a large investment portfolio , we have ambition. If you are working in a VC firm or on ex - VC who would like to contribute in teaching Venture Capital to the next generation, get in touch with us. We need more hands!
+
+If you are interested being a part of the course, reach out to me at ruchil.product@gmail.com or DM me on [Twitter](https://twitter.com/Rooh_chill)
